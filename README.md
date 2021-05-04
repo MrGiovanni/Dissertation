@@ -2,14 +2,15 @@
 
 
 # Table of Contents
-- [Introduction](#installation)
+- Introduction
 	* What is Annotation?
 	* The Barrier: Not Enough Annotation
 	* Overview of Contributions
-- [A Historical Review](#usage)
-	* [The Role of Annotation](#how-to-run-nnu-net-on-a-new-dataset)
-    	+ [Dataset conversion](#dataset-conversion)
-    	+ [Experiment planning and preprocessing](#experiment-planning-and-preprocessing)
-    	+ [Model training](#model-training)
+- A Historical Review
+	* The Role of Annotation
+    	+ Attribute Learning
+    	+ Categorical Learning
+    	+ Representation Learning
+    	+ Current Limitations and Future Considerations
       
 
