@@ -23,11 +23,11 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 
 ## Table of Contents
 
-- Introduction
+- ChapterI: Introduction
 	* What is Annotation?
 	* The Barrier: Not Enough Annotation
 	* Overview of Contributions
-- A Historical Review
+- Chapter II: A Historical Review
 	* The Role of Annotation
     	+ Attribute Learning
     	+ Categorical Learning
@@ -38,7 +38,7 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 		+ Acquiring Necessary Annotation
 		+ Designing Advanced Architectures
 		+ Extracting Generic Image Features
-- Acquiring Annotation from Human Experts
+- Chapter III: Acquiring Annotation from Human Experts
 	* Background & Motivation
 	* Approach & Property
 		+ Selecting Based on Certainty and Consistency
@@ -58,7 +58,30 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 		+ Is ACFT Generalizable to Other Models?
 		+ Can We Do Better on the Cold Start Problem?
 		+ Is Our Consistency Observation Useful for Other Purposes?
-	* Conclusion and Broader Impacts
+		+ Conclusion and Broader Impacts
+- Chapter IV: Utilizing Annotation from Advanced Models
+	* Background & Motivation
+	* Approach & Property
+		+ Evolving Architectural Designs
+		+ Redesigning Skip Connections
+		+ Introducing Deep Supervision
+		+ Two Unique Properties
+	* Experiment & Result
+		+ Benchmarking UNet++
+		+ UNet++ Outperforms U-Net in Semantic Segmentation
+		+ MaskRCNN++ Tops Mask-RCNN in Instance Segmentation
+		+ UNet++ Accelerates Inference Speed by Model Pruning
+		+ Embedded UNet++ Surpasses Isolated U-Nets
+	* Discussion & Conclusion
+		+ Can UNet++ Segment Lesions with Varying Sizes?
+		+ How Do Multi-scale Feature Maps Aggregate in UNet++?
+		+ Isolated Learning or Collaborative Learning?
+		+ Conclusion and Broader Impacts
+- Chapter V: Extracting Features from Unannotated Images
+	* Background & Motivation
+	* Approach & Property
+	* Experiment & Result
+	* Discussion & Conclusion
 
 ## About the Author
 
