@@ -40,7 +40,8 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Designing Advanced Architectures
 	+ Extracting Generic Image Features
 
-## Chapter III: Acquiring Annotation from Human Experts ([Github](https://github.com/MrGiovanni/Active-Learning))
+## Chapter III: Acquiring Annotation from Human Experts
+[Github](https://github.com/MrGiovanni/Active-Learning)
 
 * Background & Motivation
 * Approach & Property
@@ -83,7 +84,8 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Isolated Learning or Collaborative Learning?
 	+ Conclusion and Broader Impacts
 
-## Chapter V: Extracting Features from Unannotated Images ([Github](https://github.com/MrGiovanni/ModelsGenesis))
+## Chapter V: Extracting Features from Unannotated Images
+[miccai'19](http://www.cs.toronto.edu/~liang/Publications/ModelsGenesis/MICCAI_2019_Full.pdf) [media'21](https://arxiv.org/pdf/2004.07882.pdf) | [code](https://github.com/MrGiovanni/ModelsGenesis) | [slides](https://docs.wixstatic.com/ugd/deaea1_c5e0f8cd9cde4c3db339d866483cbcd3.pdf) | [poster](http://www.cs.toronto.edu/~liang/Publications/ModelsGenesis/Models_Genesis_Poster.pdf) | talk ([YouTube](https://youtu.be/5W_uGzBloZs), [YouKu](https://v.youku.com/v_show/id_XNDM5NjQ1ODAxMg==.html?sharefrom=iphone&sharekey=496e1494c76ed263653aa3aada61c23e6)) | [blog](https://zhuanlan.zhihu.com/p/86366534)
 
 * Background & Motivation
 * Approach & Property
