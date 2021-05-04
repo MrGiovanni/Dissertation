@@ -41,7 +41,7 @@ Dissertation | [Defense](https://youtu.be/EQcpRikJqM0) | Slides | LaTeX<br/>
 	+ Extracting Generic Image Features
 
 ## Chapter III: Acquiring Annotation from Human Experts
-[CVPR'17](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf) | [MedIA'21](https://arxiv.org/pdf/1802.00912.pdf) | [Code](https://github.com/MrGiovanni/Active-Learning) | [Slides](https://docs.wixstatic.com/ugd/deaea1_d4ad03012be2408191885c697af60401.pdf) | [Poster]() | [Talk]() | [Blog]()
+[CVPR'17](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf) | [MedIA'21](https://arxiv.org/pdf/1802.00912.pdf) | [Code](https://github.com/MrGiovanni/Active-Learning) | [Slides](https://docs.wixstatic.com/ugd/deaea1_d4ad03012be2408191885c697af60401.pdf) | Poster | Talk | Blog
 
 * Background & Motivation
 * Approach & Property
@@ -65,7 +65,7 @@ Dissertation | [Defense](https://youtu.be/EQcpRikJqM0) | Slides | LaTeX<br/>
 	+ Conclusion and Broader Impacts
 
 ## Chapter IV: Utilizing Annotation from Advanced Models
-[DLMIA'18](https://arxiv.org/abs/1807.10165) | [TMI'19](https://arxiv.org/abs/1912.05074) | [Code](https://github.com/MrGiovanni/UNetPlusPlus) | [Slides](https://docs.wixstatic.com/ugd/deaea1_1d1e512ebedc4facbb242d7a0f2b7a0b.pdf) | [Poster](https://docs.wixstatic.com/ugd/deaea1_993c14ef78f844c88a0dae9d93e4857c.pdf) | [Talk]() | [Blog](https://zhuanlan.zhihu.com/p/44958351)
+[DLMIA'18](https://arxiv.org/abs/1807.10165) | [TMI'19](https://arxiv.org/abs/1912.05074) | [Code](https://github.com/MrGiovanni/UNetPlusPlus) | [Slides](https://docs.wixstatic.com/ugd/deaea1_1d1e512ebedc4facbb242d7a0f2b7a0b.pdf) | [Poster](https://docs.wixstatic.com/ugd/deaea1_993c14ef78f844c88a0dae9d93e4857c.pdf) | Talk | [Blog](https://zhuanlan.zhihu.com/p/44958351)
 
 * Background & Motivation
 * Approach & Property
