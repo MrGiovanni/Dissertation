@@ -40,7 +40,7 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Designing Advanced Architectures
 	+ Extracting Generic Image Features
 
-## Chapter III: Acquiring Annotation from Human Experts
+## Chapter III: Acquiring Annotation from Human Experts ([Github](https://github.com/MrGiovanni/Active-Learning))
 
 * Background & Motivation
 * Approach & Property
@@ -63,7 +63,7 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Is Our Consistency Observation Useful for Other Purposes?
 	+ Conclusion and Broader Impacts
 
-## Chapter IV: Utilizing Annotation from Advanced Models
+## Chapter IV: Utilizing Annotation from Advanced Models ([Github](https://github.com/MrGiovanni/UNetPlusPlus))
 
 * Background & Motivation
 * Approach & Property
@@ -83,7 +83,7 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Isolated Learning or Collaborative Learning?
 	+ Conclusion and Broader Impacts
 
-## Chapter V: Extracting Features from Unannotated Images
+## Chapter V: Extracting Features from Unannotated Images ([Github](https://github.com/MrGiovanni/ModelsGenesis))
 
 * Background & Motivation
 * Approach & Property
@@ -105,7 +105,7 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Can Models Genesis Detect Infected Regions from Images?
 	+ Conclusion and Broader Impacts
 
-## Interpreting Medical Images
+## Chapter VI: Interpreting Medical Images
 
 * Characteristics of Medical Images
 * Clinical Needs
@@ -117,8 +117,6 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 * Discussion & Conclusion
 	+ What Is the Current State of Clinical PE CAD?
 	+ Conclusion and Broader Impacts
-
-## Conclusion
 
 ## About the Author
 
