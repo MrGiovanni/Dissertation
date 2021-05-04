@@ -87,8 +87,38 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 
 * Background & Motivation
 * Approach & Property
+	+ Learning by Image Restoration
+	+ Learning from Multiple Perspectives
+	+ Four Unique Properties
 * Experiment & Result
+	+ The Combined Learning Scheme Exceeds Each Individual
+	+ Models Genesis Outperform Learning from Scratch
+	+ Models Genesis Surpass Existing Pre-trained 3D Models
+	+ Models Genesis Reduce Annotation Efforts by at Least 30%
+	+ Models Genesis Top Any 2D/2.5D Approaches
 * Discussion & Conclusion
+	+ Do We Still Need a Medical ImageNet?
+	+ Same-domain or Cross-domain Transfer Learning?
+	+ Is Any Data Augmentation Suitable as a Transformation?
+	+ Can Algorithms Autonomously Search for Transformations?
+	+ Does Better Restoration Transfer Better?
+	+ Can Models Genesis Detect Infected Regions from Images?
+	+ Conclusion and Broader Impacts
+
+## Interpreting Medical Images
+
+* Characteristics of Medical Images
+* Clinical Needs
+* Medical Application: A Case Study of PE CAD
+	+ Pulmonary Embolism
+	+ Generating Pulmonary Embolism Candidates
+	+ Reducing Pulmonary Embolism False Positives
+	+ Comparing with the State of the Art
+* Discussion & Conclusion
+	+ What Is the Current State of Clinical PE CAD?
+	+ Conclusion and Broader Impacts
+
+## Conclusion
 
 ## About the Author
 
