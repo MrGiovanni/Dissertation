@@ -21,69 +21,74 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 
 ## Key Features
 
-## Table of Contents
-
-#### Chapter I: Introduction
+## Chapter I: Introduction
 
 * What is Annotation?
 * The Barrier: Not Enough Annotation
 * Overview of Contributions
 
-- Chapter II: A Historical Review
-	* The Role of Annotation
-    	+ Attribute Learning
-    	+ Categorical Learning
-    	+ Representation Learning
-    	+ Current Limitations and Future Considerations
-	* The Opportunity: Annotation-Efficient Deep Learning
-	* Related Work & Our Innovations
-		+ Acquiring Necessary Annotation
-		+ Designing Advanced Architectures
-		+ Extracting Generic Image Features
-- Chapter III: Acquiring Annotation from Human Experts
-	* Background & Motivation
-	* Approach & Property
-		+ Selecting Based on Certainty and Consistency
-		+ Handling Noisy Labels via Majority Selection
-		+ Injecting Randomization into Active Selection
-		+ Five Unique Properties
-	* Experiment & Result
-		+ Benchmarking Active, Continual Fine-Tuning
-		+ Assessing Eight Active Selecting Criteria
-		+ Comparing Four Active Learning Strategies
-		+ Cutting >80% Annotation Cost for Medical Applications
-	* Discussion & Conclusion
-		+ What Are the Favored Prediction Patterns?
-		+ How Does Intra-diversity Differ from Inter-diversity?
-		+ Can Actively Selected Samples Be Automatically Balanced?
-		+ How to Prevent Model Forgetting in Continual Learning?
-		+ Is ACFT Generalizable to Other Models?
-		+ Can We Do Better on the Cold Start Problem?
-		+ Is Our Consistency Observation Useful for Other Purposes?
-		+ Conclusion and Broader Impacts
-- Chapter IV: Utilizing Annotation from Advanced Models
-	* Background & Motivation
-	* Approach & Property
-		+ Evolving Architectural Designs
-		+ Redesigning Skip Connections
-		+ Introducing Deep Supervision
-		+ Two Unique Properties
-	* Experiment & Result
-		+ Benchmarking UNet++
-		+ UNet++ Outperforms U-Net in Semantic Segmentation
-		+ MaskRCNN++ Tops Mask-RCNN in Instance Segmentation
-		+ UNet++ Accelerates Inference Speed by Model Pruning
-		+ Embedded UNet++ Surpasses Isolated U-Nets
-	* Discussion & Conclusion
-		+ Can UNet++ Segment Lesions with Varying Sizes?
-		+ How Do Multi-scale Feature Maps Aggregate in UNet++?
-		+ Isolated Learning or Collaborative Learning?
-		+ Conclusion and Broader Impacts
-- Chapter V: Extracting Features from Unannotated Images
-	* Background & Motivation
-	* Approach & Property
-	* Experiment & Result
-	* Discussion & Conclusion
+## Chapter II: A Historical Review
+
+* The Role of Annotation
+	+ Attribute Learning
+	+ Categorical Learning
+	+ Representation Learning
+	+ Current Limitations and Future Considerations
+* The Opportunity: Annotation-Efficient Deep Learning
+* Related Work & Our Innovations
+	+ Acquiring Necessary Annotation
+	+ Designing Advanced Architectures
+	+ Extracting Generic Image Features
+
+## Chapter III: Acquiring Annotation from Human Experts
+
+* Background & Motivation
+* Approach & Property
+	+ Selecting Based on Certainty and Consistency
+	+ Handling Noisy Labels via Majority Selection
+	+ Injecting Randomization into Active Selection
+	+ Five Unique Properties
+* Experiment & Result
+	+ Benchmarking Active, Continual Fine-Tuning
+	+ Assessing Eight Active Selecting Criteria
+	+ Comparing Four Active Learning Strategies
+	+ Cutting >80% Annotation Cost for Medical Applications
+* Discussion & Conclusion
+	+ What Are the Favored Prediction Patterns?
+	+ How Does Intra-diversity Differ from Inter-diversity?
+	+ Can Actively Selected Samples Be Automatically Balanced?
+	+ How to Prevent Model Forgetting in Continual Learning?
+	+ Is ACFT Generalizable to Other Models?
+	+ Can We Do Better on the Cold Start Problem?
+	+ Is Our Consistency Observation Useful for Other Purposes?
+	+ Conclusion and Broader Impacts
+
+## Chapter IV: Utilizing Annotation from Advanced Models
+
+* Background & Motivation
+* Approach & Property
+	+ Evolving Architectural Designs
+	+ Redesigning Skip Connections
+	+ Introducing Deep Supervision
+	+ Two Unique Properties
+* Experiment & Result
+	+ Benchmarking UNet++
+	+ UNet++ Outperforms U-Net in Semantic Segmentation
+	+ MaskRCNN++ Tops Mask-RCNN in Instance Segmentation
+	+ UNet++ Accelerates Inference Speed by Model Pruning
+	+ Embedded UNet++ Surpasses Isolated U-Nets
+* Discussion & Conclusion
+	+ Can UNet++ Segment Lesions with Varying Sizes?
+	+ How Do Multi-scale Feature Maps Aggregate in UNet++?
+	+ Isolated Learning or Collaborative Learning?
+	+ Conclusion and Broader Impacts
+
+## Chapter V: Extracting Features from Unannotated Images
+
+* Background & Motivation
+* Approach & Property
+* Experiment & Result
+* Discussion & Conclusion
 
 ## About the Author
 
