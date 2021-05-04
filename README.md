@@ -5,7 +5,7 @@
 
 Advisor: Dr. Jianming Liang<br/>
 Committee: Dr. Edward H. Shortliffe, Dr. Robert A. Greenes, and Dr. Baoxin Li<br/>
-[Dissertation](https://github.com/MrGiovanni/Dissertation/blob/main/Documents/Zongwei_Zhou_PhD_Dissertation_30April2021.pdf) | [Defense](https://youtu.be/EQcpRikJqM0) | [Slides](https://github.com/MrGiovanni/Dissertation/blob/main/Documents/Zongwei_Zhou_PhD_Defense_13April2021.pdf) | LaTeX<br/>
+[Dissertation](https://github.com/MrGiovanni/Dissertation/blob/main/documents/Zongwei_Zhou_PhD_Dissertation_30April2021.pdf) | [Defense](https://youtu.be/EQcpRikJqM0) | [Slides](https://github.com/MrGiovanni/Dissertation/blob/main/documents/Zongwei_Zhou_PhD_Defense_13April2021.pdf) | LaTeX<br/>
 
 ## Citing the dissertation
 
