@@ -5,7 +5,7 @@
 
 Advisor: Dr. Jianming Liang<br/>
 Committee: Dr. Edward H. Shortliffe, Dr. Robert A. Greenes, and Dr. Baoxin Li<br/>
-pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
+Dissertation | [Defense](https://youtu.be/EQcpRikJqM0) | Slides | LaTeX<br/>
 
 ## Citing the dissertation
 
@@ -41,7 +41,7 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Extracting Generic Image Features
 
 ## Chapter III: Acquiring Annotation from Human Experts
-[Github](https://github.com/MrGiovanni/Active-Learning)
+[CVPR'17](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf) | [MedIA'21](https://arxiv.org/pdf/1802.00912.pdf) | [Code](https://github.com/MrGiovanni/Active-Learning) | [Slides](https://docs.wixstatic.com/ugd/deaea1_d4ad03012be2408191885c697af60401.pdf) | [Poster]() | [Talk]() | [Blog]()
 
 * Background & Motivation
 * Approach & Property
@@ -64,7 +64,8 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Is Our Consistency Observation Useful for Other Purposes?
 	+ Conclusion and Broader Impacts
 
-## Chapter IV: Utilizing Annotation from Advanced Models ([Github](https://github.com/MrGiovanni/UNetPlusPlus))
+## Chapter IV: Utilizing Annotation from Advanced Models
+[DLMIA'18](https://arxiv.org/abs/1807.10165) | [TMI'19](https://arxiv.org/abs/1912.05074) | [Code](https://github.com/MrGiovanni/UNetPlusPlus) | [Slides](https://docs.wixstatic.com/ugd/deaea1_1d1e512ebedc4facbb242d7a0f2b7a0b.pdf) | [Poster](https://docs.wixstatic.com/ugd/deaea1_993c14ef78f844c88a0dae9d93e4857c.pdf) | [Talk]() | [Blog](https://zhuanlan.zhihu.com/p/44958351)
 
 * Background & Motivation
 * Approach & Property
@@ -85,7 +86,7 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 	+ Conclusion and Broader Impacts
 
 ## Chapter V: Extracting Features from Unannotated Images
-[miccai'19](http://www.cs.toronto.edu/~liang/Publications/ModelsGenesis/MICCAI_2019_Full.pdf) [media'21](https://arxiv.org/pdf/2004.07882.pdf) | [code](https://github.com/MrGiovanni/ModelsGenesis) | [slides](https://docs.wixstatic.com/ugd/deaea1_c5e0f8cd9cde4c3db339d866483cbcd3.pdf) | [poster](http://www.cs.toronto.edu/~liang/Publications/ModelsGenesis/Models_Genesis_Poster.pdf) | talk ([YouTube](https://youtu.be/5W_uGzBloZs), [YouKu](https://v.youku.com/v_show/id_XNDM5NjQ1ODAxMg==.html?sharefrom=iphone&sharekey=496e1494c76ed263653aa3aada61c23e6)) | [blog](https://zhuanlan.zhihu.com/p/86366534)
+[MICCAI'19](http://www.cs.toronto.edu/~liang/Publications/ModelsGenesis/MICCAI_2019_Full.pdf) | [MedIA'21](https://arxiv.org/pdf/2004.07882.pdf) | [Code](https://github.com/MrGiovanni/ModelsGenesis) | [Slides](https://docs.wixstatic.com/ugd/deaea1_c5e0f8cd9cde4c3db339d866483cbcd3.pdf) | [Poster](http://www.cs.toronto.edu/~liang/Publications/ModelsGenesis/Models_Genesis_Poster.pdf) | [Talk](https://youtu.be/5W_uGzBloZs) | [Blog](https://zhuanlan.zhihu.com/p/86366534)
 
 * Background & Motivation
 * Approach & Property
