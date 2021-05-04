@@ -1,9 +1,9 @@
-# Towards Annotation-Efficient Deep Learning for Computer-Aided Diagnosis
+<h1 align="center" style="margin-top: 0px;">Towards Annotation-Efficient Deep Learning for Computer-Aided Diagnosis</h1>
 
-
-<b>Towards Annotation-Efficient Deep Learning for Computer-Aided Diagnosis</b> <br/>
-[Zongwei Zhou](https://www.zongweiz.com/) <br/>
-PhD Dissertation, Arizona State University <br/>
+<p align="center" >[Zongwei Zhou](https://www.zongweiz.com/)</p>
+Ph.D. Dissertation, Arizona State University <br/>
+Advisor: Dr. Jianming Liang
+Committee: Dr. Edward H. Shortliffe, Dr. Robert A. Greenes, and Dr. Baoxin Li
 dissertation | [defense](https://youtu.be/EQcpRikJqM0)
 
 - Acknowledgements
