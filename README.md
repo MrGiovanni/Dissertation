@@ -23,10 +23,12 @@ pdf | [defense](https://youtu.be/EQcpRikJqM0) | slides | latex<br/>
 
 ## Table of Contents
 
-- ChapterI: Introduction
-	* What is Annotation?
-	* The Barrier: Not Enough Annotation
-	* Overview of Contributions
+#### Chapter I: Introduction
+
+* What is Annotation?
+* The Barrier: Not Enough Annotation
+* Overview of Contributions
+
 - Chapter II: A Historical Review
 	* The Role of Annotation
     	+ Attribute Learning
