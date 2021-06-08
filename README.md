@@ -10,12 +10,11 @@ Committee: Dr. Edward H. Shortliffe, Dr. Robert A. Greenes, and Dr. Baoxin Li<br
 ## Citing the dissertation
 
 ```
-@misc{zhou2021towards,
+@phdthesis{zhou2021towards,
   title={Towards Annotation-Efficient Deep Learning for Computer-Aided Diagnosis},
   author={Zhou, Zongwei},
   year={2021},
-  url = "https://github.com/MrGiovanni/Dissertation",
-  publisher={Arizona State University}
+  school={Arizona State University}
 }
 ```
 
