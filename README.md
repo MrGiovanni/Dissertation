@@ -3,8 +3,8 @@
 <a href="https://www.zongweiz.com/"><p align="center" >Zongwei Zhou</p></a>
 <p align="center" >Arizona State University</p>
 
-Advisor: Dr. Jianming Liang<br/>
-Committee: Dr. Edward H. Shortliffe, Dr. Robert A. Greenes, and Dr. Baoxin Li<br/>
+Advisor: [Dr. Jianming Liang](https://chs.asu.edu/jianming-liang)<br/>
+Committee: [Dr. Edward H. Shortliffe](http://www.shortliffe.net/), [Dr. Robert A. Greenes](https://chs.asu.edu/robert-greenes), and [Dr. Baoxin Li](https://isearch.asu.edu/profile/747601) <br/>
 [Dissertation](https://github.com/MrGiovanni/Dissertation/blob/main/documents/Zongwei_Zhou_PhD_Dissertation_30April2021.pdf) | [Defense](https://youtu.be/EQcpRikJqM0) | [Slides](https://github.com/MrGiovanni/Dissertation/blob/main/documents/Zongwei_Zhou_PhD_Defense_13April2021.pdf) | [LaTeX](https://github.com/MrGiovanni/Dissertation/tree/main/LaTeX) <br/>
 
 ## Citing the dissertation
