@@ -1,0 +1,91 @@
+\BOOKMARK [-1][-]{Doc-Start}{LIST OF TABLES}{}% 1
+\BOOKMARK [-1][-]{Doc-Start}{LIST OF FIGURES}{}% 2
+\BOOKMARK [0][-]{chapter.1}{1 }{Doc-Start}% 3
+\BOOKMARK [1][-]{section.1.1}{1.1 What is Annotation?}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{1.2 The Barrier: Not Enough Annotation}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.3}{1.3 Overview of Contributions}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{2 }{Doc-Start}% 7
+\BOOKMARK [1][-]{section.2.1}{2.1 The Role of Annotation}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Attribute Learning}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Categorical Learning}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.3}{2.1.3 Representation Learning}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.4}{2.1.4 Current Limitations and Future Considerations}{section.2.1}% 12
+\BOOKMARK [1][-]{section.2.2}{2.2 The Opportunity: Annotation-Efficient Deep Learning}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.3}{2.3 Related Work \046 Our Innovations}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Acquiring Necessary Annotation}{section.2.3}% 15
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Designing Advanced Architectures}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Extracting Generic Image Features}{section.2.3}% 17
+\BOOKMARK [0][-]{chapter.3}{3 }{Doc-Start}% 18
+\BOOKMARK [1][-]{section.3.1}{3.1 Background \046 Motivation}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.2}{3.2 Approach \046 Property}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Selecting Based on Certainty and Consistency}{section.3.2}% 21
+\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Handling Noisy Labels via Majority Selection}{section.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Injecting Randomization into Active Selection}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 Five Unique Properties}{section.3.2}% 24
+\BOOKMARK [1][-]{section.3.3}{3.3 Experiment \046 Result}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Benchmarking Active, Continual Fine-Tuning}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Assessing Eight Active Selecting Criteria}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Comparing Four Active Learning Strategies}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Cutting >80\045 Annotation Cost for Medical Applications}{section.3.3}% 29
+\BOOKMARK [1][-]{section.3.4}{3.4 Discussion \046 Conclusion}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 What Are the Favored Prediction Patterns?}{section.3.4}% 31
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 How Does Intra-diversity Differ from Inter-diversity?}{section.3.4}% 32
+\BOOKMARK [2][-]{subsection.3.4.3}{3.4.3 Can Actively Selected Samples Be Automatically Balanced?}{section.3.4}% 33
+\BOOKMARK [2][-]{subsection.3.4.4}{3.4.4 How to Prevent Model Forgetting in Continual Learning?}{section.3.4}% 34
+\BOOKMARK [2][-]{subsection.3.4.5}{3.4.5 Is ACFT Generalizable to Other Models?}{section.3.4}% 35
+\BOOKMARK [2][-]{subsection.3.4.6}{3.4.6 Can We Do Better on the Cold Start Problem?}{section.3.4}% 36
+\BOOKMARK [2][-]{subsection.3.4.7}{3.4.7 Is Our Consistency Observation Useful for Other Purposes?}{section.3.4}% 37
+\BOOKMARK [2][-]{subsection.3.4.8}{3.4.8 Conclusion and Broader Impacts}{section.3.4}% 38
+\BOOKMARK [0][-]{chapter.4}{4 }{Doc-Start}% 39
+\BOOKMARK [1][-]{section.4.1}{4.1 Background \046 Motivation}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.2}{4.2 Approach \046 Property}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Evolving Architectural Designs}{section.4.2}% 42
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Redesigning Skip Connections}{section.4.2}% 43
+\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 Introducing Deep Supervision}{section.4.2}% 44
+\BOOKMARK [2][-]{subsection.4.2.4}{4.2.4 Two Unique Properties}{section.4.2}% 45
+\BOOKMARK [1][-]{section.4.3}{4.3 Experiment \046 Result}{chapter.4}% 46
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Benchmarking UNet++}{section.4.3}% 47
+\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 UNet++ Outperforms U-Net in Semantic Segmentation}{section.4.3}% 48
+\BOOKMARK [2][-]{subsection.4.3.3}{4.3.3 MaskRCNN++ Tops Mask-RCNN in Instance Segmentation}{section.4.3}% 49
+\BOOKMARK [2][-]{subsection.4.3.4}{4.3.4 UNet++ Accelerates Inference Speed by Model Pruning}{section.4.3}% 50
+\BOOKMARK [2][-]{subsection.4.3.5}{4.3.5 Embedded UNet++ Surpasses Isolated U-Nets}{section.4.3}% 51
+\BOOKMARK [1][-]{section.4.4}{4.4 Discussion \046 Conclusion}{chapter.4}% 52
+\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Can UNet++ Segment Lesions with Varying Sizes?}{section.4.4}% 53
+\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 How Do Multi-scale Feature Maps Aggregate in UNet++?}{section.4.4}% 54
+\BOOKMARK [2][-]{subsection.4.4.3}{4.4.3 Isolated Learning or Collaborative Learning?}{section.4.4}% 55
+\BOOKMARK [2][-]{subsection.4.4.4}{4.4.4 Conclusion and Broader Impacts}{section.4.4}% 56
+\BOOKMARK [0][-]{chapter.5}{5 }{Doc-Start}% 57
+\BOOKMARK [1][-]{section.5.1}{5.1 Background \046 Motivation}{chapter.5}% 58
+\BOOKMARK [1][-]{section.5.2}{5.2 Approach \046 Property}{chapter.5}% 59
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Learning by Image Restoration}{section.5.2}% 60
+\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 Learning from Multiple Perspectives}{section.5.2}% 61
+\BOOKMARK [2][-]{subsection.5.2.3}{5.2.3 Four Unique Properties}{section.5.2}% 62
+\BOOKMARK [1][-]{section.5.3}{5.3 Experiment \046 Result}{chapter.5}% 63
+\BOOKMARK [2][-]{subsection.5.3.1}{5.3.1 The Combined Learning Scheme Exceeds Each Individual}{section.5.3}% 64
+\BOOKMARK [2][-]{subsection.5.3.2}{5.3.2 Models Genesis Outperform Learning from Scratch}{section.5.3}% 65
+\BOOKMARK [2][-]{subsection.5.3.3}{5.3.3 Models Genesis Surpass Existing Pre-trained 3D Models}{section.5.3}% 66
+\BOOKMARK [2][-]{subsection.5.3.4}{5.3.4 Models Genesis Reduce Annotation Efforts by at Least 30\045}{section.5.3}% 67
+\BOOKMARK [2][-]{subsection.5.3.5}{5.3.5 Models Genesis Top Any 2D/2.5D Approaches}{section.5.3}% 68
+\BOOKMARK [1][-]{section.5.4}{5.4 Discussion \046 Conclusion}{chapter.5}% 69
+\BOOKMARK [2][-]{subsection.5.4.1}{5.4.1 Do We Still Need a Medical ImageNet?}{section.5.4}% 70
+\BOOKMARK [2][-]{subsection.5.4.2}{5.4.2 Same-domain or Cross-domain Transfer Learning?}{section.5.4}% 71
+\BOOKMARK [2][-]{subsection.5.4.3}{5.4.3 Is Any Data Augmentation Suitable as a Transformation?}{section.5.4}% 72
+\BOOKMARK [2][-]{subsection.5.4.4}{5.4.4 Can Algorithms Autonomously Search for Transformations?}{section.5.4}% 73
+\BOOKMARK [2][-]{subsection.5.4.5}{5.4.5 Does Better Restoration Transfer Better?}{section.5.4}% 74
+\BOOKMARK [2][-]{subsection.5.4.6}{5.4.6 Can Models Genesis Detect Infected Regions from Images?}{section.5.4}% 75
+\BOOKMARK [2][-]{subsection.5.4.7}{5.4.7 Conclusion and Broader Impacts}{section.5.4}% 76
+\BOOKMARK [0][-]{chapter.6}{6 }{Doc-Start}% 77
+\BOOKMARK [1][-]{section.6.1}{6.1 Characteristics of Medical Images}{chapter.6}% 78
+\BOOKMARK [1][-]{section.6.2}{6.2 Clinical Needs}{chapter.6}% 79
+\BOOKMARK [1][-]{section.6.3}{6.3 Medical Application: A Case Study of PE CAD}{chapter.6}% 80
+\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Pulmonary Embolism}{section.6.3}% 81
+\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Generating Pulmonary Embolism Candidates}{section.6.3}% 82
+\BOOKMARK [2][-]{subsection.6.3.3}{6.3.3 Reducing Pulmonary Embolism False Positives}{section.6.3}% 83
+\BOOKMARK [2][-]{subsection.6.3.4}{6.3.4 Comparing with the State of the Art}{section.6.3}% 84
+\BOOKMARK [1][-]{section.6.4}{6.4 Discussion \046 Conclusion}{chapter.6}% 85
+\BOOKMARK [2][-]{subsection.6.4.1}{6.4.1 What Is the Current State of Clinical PE CAD?}{section.6.4}% 86
+\BOOKMARK [2][-]{subsection.6.4.2}{6.4.2 Conclusion and Broader Impacts}{section.6.4}% 87
+\BOOKMARK [0][-]{chapter.7}{7 }{Doc-Start}% 88
+\BOOKMARK [-1][-]{chapter.7}{REFERENCES}{}% 89
+\BOOKMARK [0][-]{appendix.A}{A }{chapter.7}% 90
+\BOOKMARK [0][-]{appendix.B}{B }{chapter.7}% 91

@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dis.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: ack.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: chapter6.aux
+A level-1 auxiliary file: chapter7.aux
+The style file: asudis.bst
+A level-1 auxiliary file: appendix1.aux
+A level-1 auxiliary file: appendix2.aux
+A level-1 auxiliary file: vita.aux
+Reallocated field_info (elt_size=4) to 12368 items from 5000.
+Database file #1: dis.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--can't use both volume and number fields in goodfellow2016deep
+Warning--can't use both volume and number fields in huang2017densely
+Warning--can't use both volume and number fields in lin2017refinenet
+Warning--can't use both volume and number fields in lin2017feature
+Warning--empty journal in settles2009active
+Warning--empty booktitle in szegedy2015going
+You've used 307 entries,
+            2456 wiz_defined-function locations,
+            2045 strings with 71758 characters,
+and the built_in function-call counts, 173438 in all, are:
+= -- 15309
+> -- 10022
+< -- 201
++ -- 3544
+- -- 3136
+* -- 16290
+:= -- 28714
+add.period$ -- 307
+call.type$ -- 307
+change.case$ -- 3064
+chr.to.int$ -- 278
+cite$ -- 313
+duplicate$ -- 6980
+empty$ -- 12535
+format.name$ -- 3801
+if$ -- 35744
+int.to.chr$ -- 30
+int.to.str$ -- 1
+missing$ -- 312
+newline$ -- 929
+num.names$ -- 921
+pop$ -- 2990
+preamble$ -- 1
+purify$ -- 3073
+quote$ -- 0
+skip$ -- 5022
+stack$ -- 0
+substring$ -- 10441
+swap$ -- 2691
+text.length$ -- 147
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1826
+warning$ -- 6
+while$ -- 1187
+width$ -- 0
+write$ -- 3316
+(There were 6 warnings)

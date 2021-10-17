@@ -1,0 +1,14 @@
+Table\nobreakspace {}\hfill Page \par 
+\contentsline {table}{\numberline {3.1}{\ignorespaces Abbreviation and Definition of Learning Strategies}}{39}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Analysis on Active Selection Pattern}}{40}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Comparison of Learning Strategies and Selecting Criteria}}{45}{table.3.3}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces Ablation Study on U-Nets of Varying Depths}}{66}{table.4.1}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Parameter Settings of U-Net, Wide U-Net, UNet+, and UNet++}}{71}{table.4.2}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces UNet++ Outperforms U-Net in Semantic Segmentation}}{73}{table.4.3}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Mask RCNN++ Surpasses Mask R-CNN in Instance Segmentation}}{75}{table.4.4}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces Definition of Pre-trained Models, Proxy and Target Tasks}}{90}{table.5.1}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Semantic Distance among Source and Target Datasets}}{99}{table.5.2}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Models Genesis Surpass Existing Pre-trained 3D Models}}{107}{table.5.3}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Models Genesis Top Any 2D/2.5D Approaches}}{111}{table.5.4}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces Models Genesis with 3D VOIR Perform the Best in PE Detection}}{136}{table.6.1}%
+\contentsline {table}{\numberline {B.1}{\ignorespaces Learning Parameters for Active, Continual Fine-Tuning}}{183}{table.B.1}%

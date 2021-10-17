@@ -1,0 +1,101 @@
+\nobreakspace {}\hfill Page\par 
+\contentsline {part}{LIST OF TABLES}{ix}{Doc-Start}%
+\contentsline {part}{LIST OF FIGURES}{x}{Doc-Start}%
+CHAPTER \par 
+\contentsline {chapter}{\numberline {1}{\MakeUppercase {Introduction}}}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}What is Annotation?}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}The Barrier: Not Enough Annotation}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Overview of Contributions}{6}{section.1.3}%
+\contentsline {chapter}{\numberline {2}{\MakeUppercase {A Historical Review}}}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}The Role of Annotation}{10}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Attribute Learning}{11}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Categorical Learning}{11}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Representation Learning}{13}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Current Limitations and Future Considerations}{14}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}The Opportunity: Annotation-Efficient Deep Learning}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Related Work \& Our Innovations}{20}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Acquiring Necessary Annotation}{20}{subsection.2.3.1}%
+\contentsline {subsubsection}{One-time learning and continual learning}{20}{section*.1}%
+\contentsline {subsubsection}{Integrating active learning with deep learning}{22}{section*.2}%
+\contentsline {subsection}{\numberline {2.3.2}Designing Advanced Architectures}{23}{subsection.2.3.2}%
+\contentsline {subsubsection}{Skip connections}{23}{section*.3}%
+\contentsline {subsubsection}{Aggregating multi-scale features}{24}{section*.4}%
+\contentsline {subsubsection}{Introducing deep supervision}{25}{section*.5}%
+\contentsline {subsection}{\numberline {2.3.3}Extracting Generic Image Features}{26}{subsection.2.3.3}%
+\contentsline {subsubsection}{Supervised representation learning}{26}{section*.6}%
+\contentsline {subsubsection}{Self-supervised representation learning}{27}{section*.7}%
+\contentsline {chapter}{\numberline {3}{\MakeUppercase {Acquiring Annotation from Human Experts}}}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Background \& Motivation}{30}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Approach \& Property}{31}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Selecting Based on Certainty and Consistency}{34}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Handling Noisy Labels via Majority Selection}{35}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Injecting Randomization into Active Selection}{35}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Five Unique Properties}{37}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Experiment \& Result}{38}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Benchmarking Active, Continual Fine-Tuning}{39}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Assessing Eight Active Selecting Criteria}{41}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Comparing Four Active Learning Strategies}{42}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Cutting $>$80\% Annotation Cost for Medical Applications}{46}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Discussion \& Conclusion}{48}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}What Are the Favored Prediction Patterns?}{48}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}How Does Intra-diversity Differ from Inter-diversity?}{50}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Can Actively Selected Samples Be Automatically Balanced?}{51}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}How to Prevent Model Forgetting in Continual Learning?}{54}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Is ACFT Generalizable to Other Models?}{55}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Can We Do Better on the Cold Start Problem?}{55}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}Is Our Consistency Observation Useful for Other Purposes?}{57}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}Conclusion and Broader Impacts}{59}{subsection.3.4.8}%
+\contentsline {chapter}{\numberline {4}{\MakeUppercase {Utilizing Annotation from Advanced Models}}}{61}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Background \& Motivation}{62}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Approach \& Property}{64}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Evolving Architectural Designs}{66}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Redesigning Skip Connections}{68}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Introducing Deep Supervision}{69}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Two Unique Properties}{70}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Experiment \& Result}{71}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Benchmarking UNet++}{71}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}UNet++ Outperforms U-Net in Semantic Segmentation}{72}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}MaskRCNN++ Tops Mask-RCNN in Instance Segmentation}{75}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}UNet++ Accelerates Inference Speed by Model Pruning}{78}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Embedded UNet++ Surpasses Isolated U-Nets}{78}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}Discussion \& Conclusion}{80}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Can UNet++ Segment Lesions with Varying Sizes?}{80}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}How Do Multi-scale Feature Maps Aggregate in UNet++?}{82}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Isolated Learning or Collaborative Learning?}{83}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Conclusion and Broader Impacts}{84}{subsection.4.4.4}%
+\contentsline {chapter}{\numberline {5}{\MakeUppercase {Extracting Features from Unannotated Images}}}{86}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Background \& Motivation}{87}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Approach \& Property}{89}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Learning by Image Restoration}{89}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Learning from Multiple Perspectives}{94}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Four Unique Properties}{97}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Experiment \& Result}{99}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}The Combined Learning Scheme Exceeds Each Individual}{99}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Models Genesis Outperform Learning from Scratch}{102}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Models Genesis Surpass Existing Pre-trained 3D Models}{106}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Models Genesis Reduce Annotation Efforts by at Least 30\%}{108}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Models Genesis Top Any 2D/2.5D Approaches}{111}{subsection.5.3.5}%
+\contentsline {section}{\numberline {5.4}Discussion \& Conclusion}{114}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Do We Still Need a Medical ImageNet?}{114}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Same-domain or Cross-domain Transfer Learning?}{115}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Is Any Data Augmentation Suitable as a Transformation?}{116}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Can Algorithms Autonomously Search for Transformations?}{117}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}Does Better Restoration Transfer Better?}{119}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {5.4.6}Can Models Genesis Detect Infected Regions from Images?}{121}{subsection.5.4.6}%
+\contentsline {subsection}{\numberline {5.4.7}Conclusion and Broader Impacts}{122}{subsection.5.4.7}%
+\contentsline {chapter}{\numberline {6}{\MakeUppercase {Interpreting Medical Images}}}{124}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Characteristics of Medical Images}{124}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Clinical Needs}{131}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Medical Application: A Case Study of PE CAD}{132}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Pulmonary Embolism}{133}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Generating Pulmonary Embolism Candidates}{134}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Reducing Pulmonary Embolism False Positives}{135}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}Comparing with the State of the Art}{138}{subsection.6.3.4}%
+\contentsline {section}{\numberline {6.4}Discussion \& Conclusion}{140}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}What Is the Current State of Clinical PE CAD?}{140}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Conclusion and Broader Impacts}{142}{subsection.6.4.2}%
+\contentsline {chapter}{\numberline {7}{\MakeUppercase {Conclusion}}}{143}{chapter.7}%
+\contentsline {part}{REFERENCES}{146}{chapter.7}%
+APPENDIX \par 
+\contentsline {chapter}{\numberline {A}{\MakeUppercase {Data availability}}}{172}{appendix.A}%
+\contentsline {chapter}{\numberline {B}{\MakeUppercase {Code availability}}}{182}{appendix.B}%

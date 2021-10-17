@@ -1,0 +1,1726 @@
+\begin{thebibliography}{307}
+\newcommand{\enquote}[1]{``#1''}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[Aggarwal \emph{et~al.}(2020)]{aggarwal2020active}
+Aggarwal, U., A.~Popescu and C.~Hudelot, \enquote{Active learning for
+  imbalanced datasets}, in \enquote{Proceedings of the IEEE/CVF Winter
+  Conference on Applications of Computer Vision}, pp. 1428--1437 (2020).
+
+\bibitem[Alex \emph{et~al.}(2017)]{alex2017semisupervised}
+Alex, V., K.~Vaidhya, S.~Thirunavukkarasu, C.~Kesavadas and G.~Krishnamurthi,
+  \enquote{Semisupervised learning using denoising autoencoders for brain
+  lesion detection and segmentation}, Journal of Medical Imaging \textbf{4}, 4,
+  041311 (2017).
+
+\bibitem[Ardila \emph{et~al.}(2019)]{ardila2019end}
+Ardila, D., A.~P. Kiraly, S.~Bharadwaj, B.~Choi, J.~J. Reicher, L.~Peng,
+  D.~Tse, M.~Etemadi, W.~Ye, G.~Corrado \emph{et~al.}, \enquote{End-to-end lung
+  cancer screening with three-dimensional deep learning on low-dose chest
+  computed tomography}, Nature medicine \textbf{25}, 6, 954--961 (2019).
+
+\bibitem[Aresta \emph{et~al.}(2019)]{aresta2019iw}
+Aresta, G., C.~Jacobs, T.~Ara{\'u}jo, A.~Cunha, I.~Ramos, B.~van Ginneken and
+  A.~Campilho, \enquote{iw-net: an automatic and minimalistic interactive lung
+  nodule segmentation deep network}, Scientific reports \textbf{9}, 1, 1--9
+  (2019).
+
+\bibitem[Armato~III \emph{et~al.}(2011)]{armato2011lung}
+Armato~III, S.~G., G.~McLennan, L.~Bidaut, M.~F. McNitt-Gray, C.~R. Meyer,
+  A.~P. Reeves, B.~Zhao, D.~R. Aberle, C.~I. Henschke, E.~A. Hoffman
+  \emph{et~al.}, \enquote{The lung image database consortium (lidc) and image
+  database resource initiative (idri): a completed reference database of lung
+  nodules on ct scans}, Medical physics \textbf{38}, 2, 915--931 (2011).
+
+\bibitem[Azizi \emph{et~al.}(2021)]{azizi2021big}
+Azizi, S., B.~Mustafa, F.~Ryan, Z.~Beaver, J.~Freyberg, J.~Deaton, A.~Loh,
+  A.~Karthikesalingam, S.~Kornblith, T.~Chen \emph{et~al.}, \enquote{Big
+  self-supervised models advance medical image classification}, arXiv preprint
+  arXiv:2101.05224  (2021).
+
+\bibitem[Bakas \emph{et~al.}(2018)]{bakas2018identifying}
+Bakas, S., M.~Reyes, A.~Jakab, S.~Bauer, M.~Rempfler, A.~Crimi, R.~T.
+  Shinohara, C.~Berger, S.~M. Ha, M.~Rozycki \emph{et~al.},
+  \enquote{Identifying the best machine learning algorithms for brain tumor
+  segmentation, progression assessment, and overall survival prediction in the
+  brats challenge}, arXiv preprint arXiv:1811.02629  (2018).
+
+\bibitem[Balcan \emph{et~al.}(2007)]{balcan2007margin}
+Balcan, M.-F., A.~Broder and T.~Zhang, \enquote{Margin based active learning},
+  in \enquote{International Conference on Computational Learning Theory}, pp.
+  35--50 (Springer, 2007).
+
+\bibitem[Bar \emph{et~al.}(2015)]{bar2015chest}
+Bar, Y., I.~Diamant, L.~Wolf, S.~Lieberman, E.~Konen and H.~Greenspan,
+  \enquote{Chest pathology detection using deep learning with non-medical
+  training}, in \enquote{2015 IEEE 12th international symposium on biomedical
+  imaging (ISBI)}, pp. 294--297 (IEEE, 2015).
+
+\bibitem[Baumgartner \emph{et~al.}(2018)]{baumgartner2018visual}
+Baumgartner, C.~F., L.~M. Koch, K.~Can~Tezcan, J.~Xi~Ang and E.~Konukoglu,
+  \enquote{Visual feature attribution using wasserstein gans}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 8309--8319 (2018).
+
+\bibitem[Beck \emph{et~al.}(2011)]{beck2011systematic}
+Beck, A.~H., A.~R. Sangoi, S.~Leung, R.~J. Marinelli, T.~O. Nielsen, M.~J. Van
+  De~Vijver, R.~B. West, M.~Van De~Rijn and D.~Koller, \enquote{Systematic
+  analysis of breast cancer morphology uncovers stromal features associated
+  with survival}, Science translational medicine \textbf{3}, 108,
+  108ra113--108ra113 (2011).
+
+\bibitem[Beluch \emph{et~al.}(2018)]{beluch2018power}
+Beluch, W.~H., T.~Genewein, A.~N{\"u}rnberger and J.~M. K{\"o}hler,
+  \enquote{The power of ensembles for active learning in image classification},
+  in \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 9368--9377 (2018).
+
+\bibitem[Ben-Cohen \emph{et~al.}(2016)]{ben2016fully}
+Ben-Cohen, A., I.~Diamant, E.~Klang, M.~Amitai and H.~Greenspan, \enquote{Fully
+  convolutional network for liver segmentation and lesions detection}, in
+  \enquote{Deep learning and data labeling for medical applications}, pp.
+  77--85 (Springer, 2016).
+
+\bibitem[Bengio(2009)]{bengio2009learning}
+Bengio, Y., \emph{Learning deep architectures for AI} (Now Publishers Inc,
+  2009).
+
+\bibitem[Bi \emph{et~al.}(2019)]{bi2019active}
+Bi, H., F.~Xu, Z.~Wei, Y.~Xue and Z.~Xu, \enquote{An active deep learning
+  approach for minimally supervised polsar image classification}, IEEE
+  Transactions on Geoscience and Remote Sensing \textbf{57}, 11, 9378--9395
+  (2019).
+
+\bibitem[Bilic \emph{et~al.}(2019)]{bilic2019liver}
+Bilic, P., P.~F. Christ, E.~Vorontsov, G.~Chlebus, H.~Chen, Q.~Dou, C.-W. Fu,
+  X.~Han, P.-A. Heng, J.~Hesser \emph{et~al.}, \enquote{The liver tumor
+  segmentation benchmark (lits)}, arXiv preprint arXiv:1901.04056  (2019).
+
+\bibitem[Blackmon \emph{et~al.}(2011)]{blackmon2011computer}
+Blackmon, K.~N., C.~Florin, L.~Bogoni, J.~W. McCain, J.~D. Koonce, H.~Lee,
+  G.~Bastarrika, C.~Thilo, P.~Costello, M.~Salganicoff \emph{et~al.},
+  \enquote{Computer-aided detection of pulmonary embolism at ct pulmonary
+  angiography: can it improve performance of inexperienced readers?}, European
+  radiology \textbf{21}, 6, 1214--1223 (2011).
+
+\bibitem[Borisov \emph{et~al.}(2010)]{borisov2010active}
+Borisov, A., E.~Tuv and G.~Runger, \enquote{Active batch learning with
+  stochastic query by forest}, in \enquote{JMLR: Workshop and Conference
+  Proceedings (2010)},  (Citeseer, 2010).
+
+\bibitem[Bortsova \emph{et~al.}(2019)]{bortsova2019semi}
+Bortsova, G., F.~Dubost, L.~Hogeweg, I.~Katramados and M.~de~Bruijne,
+  \enquote{Semi-supervised medical image segmentation via learning consistency
+  under transformations}, in \enquote{International Conference on Medical Image
+  Computing and Computer-Assisted Intervention}, pp. 810--818 (Springer, 2019).
+
+\bibitem[Buda \emph{et~al.}(2018)]{buda2018systematic}
+Buda, M., A.~Maki and M.~A. Mazurowski, \enquote{A systematic study of the
+  class imbalance problem in convolutional neural networks}, Neural Networks
+  \textbf{106}, 249--259 (2018).
+
+\bibitem[Budd \emph{et~al.}(2019)]{budd2019survey}
+Budd, S., E.~C. Robinson and B.~Kainz, \enquote{A survey on active learning and
+  human-in-the-loop deep learning for medical image analysis}, arXiv preprint
+  arXiv:1910.02923  (2019).
+
+\bibitem[Buzug(2011)]{buzug2011computed}
+Buzug, T.~M., \enquote{Computed tomography}, in \enquote{Springer Handbook of
+  Medical Technology}, pp. 311--342 (Springer, 2011).
+
+\bibitem[Cai \emph{et~al.}(2018)]{cai2018iterative}
+Cai, J., L.~Lu, A.~P. Harrison, X.~Shi, P.~Chen and L.~Yang, \enquote{Iterative
+  attention mining for weakly supervised thoracic disease pattern localization
+  in chest x-rays}, in \enquote{International Conference on Medical Image
+  Computing and Computer-Assisted Intervention}, pp. 589--598 (Springer, 2018).
+
+\bibitem[Calder \emph{et~al.}(2005)]{calder2005mortality}
+Calder, K.~K., M.~Herbert and S.~O. Henderson, \enquote{The mortality of
+  untreated pulmonary embolism in emergency department patients}, Annals of
+  emergency medicine \textbf{45}, 3, 302--310 (2005).
+
+\bibitem[Cardona \emph{et~al.}(2010)]{cardona2010integrated}
+Cardona, A., S.~Saalfeld, S.~Preibisch, B.~Schmid, A.~Cheng, J.~Pulokas,
+  P.~Tomancak and V.~Hartenstein, \enquote{An integrated micro-and
+  macroarchitectural analysis of the drosophila brain by computer-assisted
+  serial section electron microscopy}, PLoS biology \textbf{8}, 10, e1000502
+  (2010).
+
+\bibitem[Caron \emph{et~al.}(2018)]{caron2018deep}
+Caron, M., P.~Bojanowski, A.~Joulin and M.~Douze, \enquote{Deep clustering for
+  unsupervised learning of visual features}, in \enquote{Proceedings of the
+  European Conference on Computer Vision}, pp. 132--149 (2018).
+
+\bibitem[Caron \emph{et~al.}(2019)]{caron2019unsupervised}
+Caron, M., P.~Bojanowski, J.~Mairal and A.~Joulin, \enquote{Unsupervised
+  pre-training of image features on non-curated data}, in \enquote{Proceedings
+  of the IEEE International Conference on Computer Vision}, pp. 2959--2968
+  (2019).
+
+\bibitem[Caron \emph{et~al.}(2020)]{caron2020unsupervised}
+Caron, M., I.~Misra, J.~Mairal, P.~Goyal, P.~Bojanowski and A.~Joulin,
+  \enquote{Unsupervised learning of visual features by contrasting cluster
+  assignments}, arXiv preprint arXiv:2006.09882  (2020).
+
+\bibitem[Carreira and Zisserman(2017)]{carreira2017quo}
+Carreira, J. and A.~Zisserman, \enquote{Quo vadis, action recognition? a new
+  model and the kinetics dataset}, in \enquote{Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition}, pp. 6299--6308
+  (2017).
+
+\bibitem[Chakraborty \emph{et~al.}(2015)]{chakraborty2015active}
+Chakraborty, S., V.~Balasubramanian, Q.~Sun, S.~Panchanathan and J.~Ye,
+  \enquote{Active batch selection via convex relaxations with guaranteed
+  solution bounds}, IEEE transactions on pattern analysis and machine
+  intelligence \textbf{37}, 10, 1945--1958 (2015).
+
+\bibitem[Charoentong \emph{et~al.}(2017)]{charoentong2017pan}
+Charoentong, P., F.~Finotello, M.~Angelova, C.~Mayer, M.~Efremova, D.~Rieder,
+  H.~Hackl and Z.~Trajanoski, \enquote{Pan-cancer immunogenomic analyses reveal
+  genotype-immunophenotype relationships and predictors of response to
+  checkpoint blockade}, Cell reports \textbf{18}, 1, 248--262 (2017).
+
+\bibitem[Chartrand \emph{et~al.}(2017)]{chartrand2017deep}
+Chartrand, G., P.~M. Cheng, E.~Vorontsov, M.~Drozdzal, S.~Turcotte, C.~J. Pal,
+  S.~Kadoury and A.~Tang, \enquote{Deep learning: a primer for radiologists},
+  Radiographics \textbf{37}, 7, 2113--2131 (2017).
+
+\bibitem[Chaurasia and Culurciello(2017)]{chaurasia2017linknet}
+Chaurasia, A. and E.~Culurciello, \enquote{Linknet: Exploiting encoder
+  representations for efficient semantic segmentation}, in \enquote{2017 IEEE
+  Visual Communications and Image Processing (VCIP)}, pp. 1--4 (IEEE, 2017).
+
+\bibitem[Chen \emph{et~al.}(2018)]{chen2018improved}
+Chen, F., Y.~Ding, Z.~Wu, D.~Wu and J.~Wen, \enquote{An improved framework
+  called du++ applied to brain tumor segmentation}, in \enquote{2018 15th
+  International Computer Conference on Wavelet Active Media Technology and
+  Information Processing (ICCWAMTIP)}, pp. 85--88 (IEEE, 2018).
+
+\bibitem[Chen \emph{et~al.}(2016)]{chen2016deep}
+Chen, H., X.~J. Qi, J.~Z. Cheng and P.~A. Heng, \enquote{Deep contextual
+  networks for neuronal structure segmentation}, in \enquote{Thirtieth AAAI
+  conference on artificial intelligence},  (2016).
+
+\bibitem[Chen \emph{et~al.}(2019{\natexlab{a}})]{chen2019self}
+Chen, L., P.~Bentley, K.~Mori, K.~Misawa, M.~Fujiwara and D.~Rueckert,
+  \enquote{Self-supervised learning for medical image analysis using image
+  context restoration}, Medical image analysis \textbf{58}, 101539
+  (2019{\natexlab{a}}).
+
+\bibitem[Chen \emph{et~al.}(2019{\natexlab{b}})]{chen2019med3d}
+Chen, S., K.~Ma and Y.~Zheng, \enquote{Med3d: Transfer learning for 3d medical
+  image analysis}, arXiv preprint arXiv:1904.00625  (2019{\natexlab{b}}).
+
+\bibitem[Chen \emph{et~al.}(2020)]{chen2020simple}
+Chen, T., S.~Kornblith, M.~Norouzi and G.~Hinton, \enquote{A simple framework
+  for contrastive learning of visual representations}, arXiv preprint
+  arXiv:2002.05709  (2020).
+
+\bibitem[Chen \emph{et~al.}(2019{\natexlab{c}})]{chen2019rotation}
+Chen, T., X.~Zhai, M.~Ritter, M.~Lucic and N.~Houlsby, \enquote{Self-supervised
+  gans via auxiliary rotation loss}, in \enquote{Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition}, pp. 12154--12163
+  (2019{\natexlab{c}}).
+
+\bibitem[Chen and He(2020)]{chen2020exploring}
+Chen, X. and K.~He, \enquote{Exploring simple siamese representation learning},
+  arXiv preprint arXiv:2011.10566  (2020).
+
+\bibitem[Chen and Liu(2018)]{chen2018lifelong}
+Chen, Z. and B.~Liu, \enquote{Lifelong machine learning}, Synthesis Lectures on
+  Artificial Intelligence and Machine Learning \textbf{12}, 3, 1--207 (2018).
+
+\bibitem[Cheng \emph{et~al.}(2016)]{cheng2016computer}
+Cheng, J.-Z., D.~Ni, Y.-H. Chou, J.~Qin, C.-M. Tiu, Y.-C. Chang, C.-S. Huang,
+  D.~Shen and C.-M. Chen, \enquote{Computer-aided diagnosis with deep learning
+  architecture: applications to breast lesions in us images and pulmonary
+  nodules in ct scans}, Scientific reports \textbf{6}, 1, 1--13 (2016).
+
+\bibitem[Cicero \emph{et~al.}(2017)]{cicero2017training}
+Cicero, M., A.~Bilbily, E.~Colak, T.~Dowdell, B.~Gray, K.~Perampaladas and
+  J.~Barfett, \enquote{Training and validating a deep convolutional neural
+  network for computer-aided detection and classification of abnormalities on
+  frontal chest radiographs}, Investigative radiology \textbf{52}, 5, 281--287
+  (2017).
+
+\bibitem[Ciompi \emph{et~al.}(2015)]{ciompi2015automatic}
+Ciompi, F., B.~de~Hoop, S.~J. van Riel, K.~Chung, E.~T. Scholten, M.~Oudkerk,
+  P.~A. de~Jong, M.~Prokop and B.~van Ginneken, \enquote{Automatic
+  classification of pulmonary peri-fissural nodules in computed tomography
+  using an ensemble of 2d views and a convolutional neural network
+  out-of-the-box}, Medical image analysis \textbf{26}, 1, 195--202 (2015).
+
+\bibitem[Cire{\c{s}}an \emph{et~al.}(2013)]{cirecsan2013mitosis}
+Cire{\c{s}}an, D.~C., A.~Giusti, L.~M. Gambardella and J.~Schmidhuber,
+  \enquote{Mitosis detection in breast cancer histology images with deep neural
+  networks}, in \enquote{International conference on medical image computing
+  and computer-assisted intervention}, pp. 411--418 (Springer, 2013).
+
+\bibitem[Cubuk \emph{et~al.}(2019)]{cubuk2019autoaugment}
+Cubuk, E.~D., B.~Zoph, D.~Mane, V.~Vasudevan and Q.~V. Le,
+  \enquote{Autoaugment: Learning augmentation strategies from data}, in
+  \enquote{Proceedings of the IEEE conference on computer vision and pattern
+  recognition}, pp. 113--123 (2019).
+
+\bibitem[Cui \emph{et~al.}(2019{\natexlab{a}})]{cui2019pulmonary}
+Cui, H., X.~Liu and N.~Huang, \enquote{Pulmonary vessel segmentation based on
+  orthogonal fused u-net++ of chest ct images}, in \enquote{International
+  Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pp. 293--300 (Springer, 2019{\natexlab{a}}).
+
+\bibitem[Cui \emph{et~al.}(2019{\natexlab{b}})]{cui2019semi}
+Cui, W., Y.~Liu, Y.~Li, M.~Guo, Y.~Li, X.~Li, T.~Wang, X.~Zeng and C.~Ye,
+  \enquote{Semi-supervised brain lesion segmentation with an adapted mean
+  teacher model}, in \enquote{International Conference on Information
+  Processing in Medical Imaging}, pp. 554--565 (Springer, 2019{\natexlab{b}}).
+
+\bibitem[Culotta and McCallum(2005)]{culotta2005reducing}
+Culotta, A. and A.~McCallum, \enquote{Reducing labeling effort for structured
+  prediction tasks}, in \enquote{AAAI}, vol.~5, pp. 746--751 (2005).
+
+\bibitem[Dagan and Engelson(1995)]{dagan1995committee}
+Dagan, I. and S.~P. Engelson, \enquote{Committee-based sampling for training
+  probabilistic classifiers}, in \enquote{Machine Learning Proceedings 1995},
+  pp. 150--157 (Elsevier, 1995).
+
+\bibitem[Dao \emph{et~al.}(2019)]{dao2019kernel}
+Dao, T., A.~Gu, A.~J. Ratner, V.~Smith, C.~De~Sa and C.~R{\'e}, \enquote{A
+  kernel theory of modern data augmentation}, Proceedings of machine learning
+  research \textbf{97}, 1528 (2019).
+
+\bibitem[Das \emph{et~al.}(2008)]{das2008computer}
+Das, M., G.~M{\"u}hlenbruch, A.~Helm, A.~Bakai, M.~Salganicoff, S.~Stanzel,
+  J.~Liang, M.~Wolf, R.~W. G{\"u}nther and J.~E. Wildberger,
+  \enquote{Computer-aided detection of pulmonary embolism: influence on
+  radiologists’ detection performance with respect to vessel segments},
+  European radiology \textbf{18}, 7, 1350--1355 (2008).
+
+\bibitem[De~Fauw \emph{et~al.}(2018)]{de2018clinically}
+De~Fauw, J., J.~R. Ledsam, B.~Romera-Paredes, S.~Nikolov, N.~Tomasev,
+  S.~Blackwell, H.~Askham, X.~Glorot, B.~O’Donoghue, D.~Visentin
+  \emph{et~al.}, \enquote{Clinically applicable deep learning for diagnosis and
+  referral in retinal disease}, Nature medicine \textbf{24}, 9, 1342--1350
+  (2018).
+
+\bibitem[Deng \emph{et~al.}(2009)]{deng2009imagenet}
+Deng, J., W.~Dong, R.~Socher, L.-J. Li, K.~Li and L.~Fei-Fei,
+  \enquote{Imagenet: A large-scale hierarchical image database}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 248--255 (IEEE, 2009).
+
+\bibitem[Di \emph{et~al.}(2021)]{di2021color}
+Di, Y., X.~Zhu, X.~Jin, Q.~Dou, W.~Zhou and Q.~Duan, \enquote{Color-unet++: A
+  resolution for colorization of grayscale images using improved unet++},
+  Multimedia Tools and Applications pp. 1--20 (2021).
+
+\bibitem[Dietterich(2000)]{dietterich2000ensemble}
+Dietterich, T.~G., \enquote{Ensemble methods in machine learning}, in
+  \enquote{International workshop on multiple classifier systems}, pp. 1--15
+  (Springer, 2000).
+
+\bibitem[Ding \emph{et~al.}(2018)]{ding2018deep}
+Ding, Y., J.~H. Sohn, M.~G. Kawczynski, H.~Trivedi, R.~Harnish, N.~W. Jenkins,
+  D.~Lituiev, T.~P. Copeland, M.~S. Aboian, C.~Mari~Aparici \emph{et~al.},
+  \enquote{A deep learning model to predict a diagnosis of alzheimer disease by
+  using 18f-fdg pet of the brain}, Radiology \textbf{290}, 2, 456--464 (2018).
+
+\bibitem[Doersch \emph{et~al.}(2015)]{doersch2015unsupervised}
+Doersch, C., A.~Gupta and A.~A. Efros, \enquote{Unsupervised visual
+  representation learning by context prediction}, in \enquote{Proceedings of
+  the IEEE International Conference on Computer Vision}, pp. 1422--1430 (2015).
+
+\bibitem[Doersch and Zisserman(2017)]{doersch2017multi}
+Doersch, C. and A.~Zisserman, \enquote{Multi-task self-supervised visual
+  learning}, in \enquote{Proceedings of the IEEE International Conference on
+  Computer Vision}, pp. 2051--2060 (2017).
+
+\bibitem[Dong \emph{et~al.}(2020)]{dong2020role}
+Dong, D., Z.~Tang, S.~Wang, H.~Hui, L.~Gong, Y.~Lu, Z.~Xue, H.~Liao, F.~Chen,
+  F.~Yang \emph{et~al.}, \enquote{The role of imaging in the detection and
+  management of covid-19: a review}, IEEE reviews in biomedical engineering
+  (2020).
+
+\bibitem[Dosovitskiy \emph{et~al.}(2020)]{dosovitskiy2020image}
+Dosovitskiy, A., L.~Beyer, A.~Kolesnikov, D.~Weissenborn, X.~Zhai,
+  T.~Unterthiner, M.~Dehghani, M.~Minderer, G.~Heigold, S.~Gelly \emph{et~al.},
+  \enquote{An image is worth 16x16 words: Transformers for image recognition at
+  scale}, arXiv preprint arXiv:2010.11929  (2020).
+
+\bibitem[Dosovitskiy \emph{et~al.}(2015)]{dosovitskiy2015discriminative}
+Dosovitskiy, A., P.~Fischer, J.~T. Springenberg, M.~Riedmiller and T.~Brox,
+  \enquote{Discriminative unsupervised feature learning with exemplar
+  convolutional neural networks}, IEEE transactions on pattern analysis and
+  machine intelligence \textbf{38}, 9, 1734--1747 (2015).
+
+\bibitem[Dou \emph{et~al.}(2016)]{dou20163d}
+Dou, Q., H.~Chen, Y.~Jin, L.~Yu, J.~Qin and P.-A. Heng, \enquote{3d deeply
+  supervised network for automatic liver segmentation from ct volumes}, in
+  \enquote{International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pp. 149--157 (Springer, 2016).
+
+\bibitem[Dou \emph{et~al.}(2017)]{dou20173d}
+Dou, Q., L.~Yu, H.~Chen, Y.~Jin, X.~Yang, J.~Qin and P.-A. Heng, \enquote{3d
+  deeply supervised network for automated segmentation of volumetric medical
+  images}, Medical image analysis \textbf{41}, 40--54 (2017).
+
+\bibitem[Drozdzal \emph{et~al.}(2016)]{drozdzal2016importance}
+Drozdzal, M., E.~Vorontsov, G.~Chartrand, S.~Kadoury and C.~Pal, \enquote{The
+  importance of skip connections in biomedical image segmentation}, in
+  \enquote{Deep Learning and Data Labeling for Medical Applications}, pp.
+  179--187 (Springer, 2016).
+
+\bibitem[Duan \emph{et~al.}(2019)]{duan2019improved}
+Duan, G., Z.~Wang, L.~Sun, P.~Ruan and G.~Lu, \enquote{An improved active
+  incremental fine-tuning method using outlier detection based on the normal
+  distribution}, in \enquote{2019 International Conference on Internet of
+  Things (iThings) and IEEE Green Computing and Communications (GreenCom) and
+  IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data
+  (SmartData)}, pp. 888--894 (IEEE, 2019).
+
+\bibitem[Esteva \emph{et~al.}(2017)]{esteva2017dermatologist}
+Esteva, A., B.~Kuprel, R.~A. Novoa, J.~Ko, S.~M. Swetter, H.~M. Blau and
+  S.~Thrun, \enquote{Dermatologist-level classification of skin cancer with
+  deep neural networks}, Nature \textbf{542}, 7639, 115 (2017).
+
+\bibitem[Esteva \emph{et~al.}(2019)]{esteva2019guide}
+Esteva, A., A.~Robicquet, B.~Ramsundar, V.~Kuleshov, M.~DePristo, K.~Chou,
+  C.~Cui, G.~Corrado, S.~Thrun and J.~Dean, \enquote{A guide to deep learning
+  in healthcare}, Nature medicine \textbf{25}, 1, 24--29 (2019).
+
+\bibitem[Fairfield(1990)]{fairfield1990toboggan}
+Fairfield, J., \enquote{Toboggan contrast enhancement for contrast
+  segmentation}, in \enquote{[1990] Proceedings. 10th International Conference
+  on Pattern Recognition}, vol.~1, pp. 712--716 (IEEE, 1990).
+
+\bibitem[Falk \emph{et~al.}(2018)]{falk2018u}
+Falk, T., D.~Mai, R.~Bensch, {\"O}.~{\c{C}}i{\c{c}}ek, A.~Abdulkadir,
+  Y.~Marrakchi, A.~B{\"o}hm, J.~Deubner, Z.~J{\"a}ckel, K.~Seiwald
+  \emph{et~al.}, \enquote{U-net: deep learning for cell counting, detection,
+  and morphometry}, Nature methods p.~1 (2018).
+
+\bibitem[Falk \emph{et~al.}(2019)]{falk2019u}
+Falk, T., D.~Mai, R.~Bensch, {\"O}.~{\c{C}}i{\c{c}}ek, A.~Abdulkadir,
+  Y.~Marrakchi, A.~B{\"o}hm, J.~Deubner, Z.~J{\"a}ckel, K.~Seiwald
+  \emph{et~al.}, \enquote{U-net: deep learning for cell counting, detection,
+  and morphometry}, Nature methods \textbf{16}, 1, 67--70 (2019).
+
+\bibitem[Fang \emph{et~al.}(2019{\natexlab{a}})]{fang2019improved}
+Fang, J., Y.~Zhang, K.~Xie, S.~Yuan and Q.~Chen, \enquote{An improved mpb-cnn
+  segmentation method for edema area and neurosensory retinal detachment in
+  sd-oct images}, in \enquote{International Workshop on Ophthalmic Medical
+  Image Analysis}, pp. 130--138 (Springer, 2019{\natexlab{a}}).
+
+\bibitem[Fang \emph{et~al.}(2019{\natexlab{b}})]{fang2019selective}
+Fang, Y., C.~Chen, Y.~Yuan and K.-y. Tong, \enquote{Selective feature
+  aggregation network with area-boundary constraints for polyp segmentation},
+  in \enquote{International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pp. 302--310 (Springer, 2019{\natexlab{b}}).
+
+\bibitem[Feng \emph{et~al.}(2020)]{feng2020parts2whole}
+Feng, R., Z.~Zhou, M.~B. Gotway and J.~Liang, \enquote{Parts2whole:
+  Self-supervised contrastive learning via reconstruction}, in \enquote{Domain
+  Adaptation and Representation Transfer, and Distributed and Collaborative
+  Learning}, pp. 85--95 (Springer, 2020).
+
+\bibitem[Forbes(2012)]{forbes2012human}
+Forbes, G.~B., \emph{Human body composition: growth, aging, nutrition, and
+  activity} (Springer Science \& Business Media, 2012).
+
+\bibitem[Fotedar \emph{et~al.}(2020)]{fotedar2020extreme}
+Fotedar, G., N.~Tajbakhsh, S.~Ananth and X.~Ding, \enquote{Extreme consistency:
+  Overcoming annotation scarcity and domain shifts}, in \enquote{International
+  Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pp. 699--709 (Springer, 2020).
+
+\bibitem[Fourure \emph{et~al.}(2017)]{fourure2017gridnet}
+Fourure, D., R.~Emonet, E.~Fromont, D.~Muselet, A.~Tr{\'e}meau and C.~Wolf,
+  \enquote{Residual conv-deconv grid network for semantic segmentation}, in
+  \enquote{Proceedings of the British Machine Vision Conference, 2017},
+  (2017).
+
+\bibitem[Gal and Ghahramani(2016)]{gal2016dropout}
+Gal, Y. and Z.~Ghahramani, \enquote{Dropout as a bayesian approximation:
+  Representing model uncertainty in deep learning}, in \enquote{international
+  conference on machine learning}, pp. 1050--1059 (PMLR, 2016).
+
+\bibitem[Gal \emph{et~al.}(2017)]{gal2017deep}
+Gal, Y., R.~Islam and Z.~Ghahramani, \enquote{Deep bayesian active learning
+  with image data}, in \enquote{International Conference on Machine Learning},
+  pp. 1183--1192 (PMLR, 2017).
+
+\bibitem[Gan \emph{et~al.}(2015)]{gan2015learning}
+Gan, Z., R.~Henao, D.~Carlson and L.~Carin, \enquote{Learning deep sigmoid
+  belief networks with data augmentation}, in \enquote{Artificial Intelligence
+  and Statistics}, pp. 268--276 (2015).
+
+\bibitem[Gao \emph{et~al.}(2020)]{gao2020consistency}
+Gao, M., Z.~Zhang, G.~Yu, S.~{\"O}. Ar{\i}k, L.~S. Davis and T.~Pfister,
+  \enquote{Consistency-based semi-supervised active learning: Towards
+  minimizing labeling cost}, in \enquote{European Conference on Computer
+  Vision}, pp. 510--526 (Springer, 2020).
+
+\bibitem[Gepner \emph{et~al.}(2015)]{gepner2015comparison}
+Gepner, A.~D., R.~Young, J.~A. Delaney, M.~C. Tattersall, M.~J. Blaha, W.~S.
+  Post, R.~F. Gottesman, R.~Kronmal, M.~J. Budoff, G.~L. Burke \emph{et~al.},
+  \enquote{A comparison of coronary artery calcium presence, carotid plaque
+  presence, and carotid intima-media thickness for cardiovascular disease
+  prediction in the multi-ethnic study of atherosclerosis (mesa)}, Circulation.
+  Cardiovascular imaging \textbf{8}, 1 (2015).
+
+\bibitem[Gibson \emph{et~al.}(2018{\natexlab{a}})]{gibson2018automatic}
+Gibson, E., F.~Giganti, Y.~Hu, E.~Bonmati, S.~Bandula, K.~Gurusamy,
+  B.~Davidson, S.~P. Pereira, M.~J. Clarkson and D.~C. Barratt,
+  \enquote{Automatic multi-organ segmentation on abdominal ct with dense
+  v-networks}, IEEE transactions on medical imaging \textbf{37}, 8, 1822--1834
+  (2018{\natexlab{a}}).
+
+\bibitem[Gibson \emph{et~al.}(2018{\natexlab{b}})]{gibson2018niftynet}
+Gibson, E., W.~Li, C.~Sudre, L.~Fidon, D.~I. Shakir, G.~Wang, Z.~Eaton-Rosen,
+  R.~Gray, T.~Doel, Y.~Hu \emph{et~al.}, \enquote{Niftynet: a deep-learning
+  platform for medical imaging}, Computer methods and programs in biomedicine
+  \textbf{158}, 113--122 (2018{\natexlab{b}}).
+
+\bibitem[Glorot and Bengio(2010)]{glorot2010understanding}
+Glorot, X. and Y.~Bengio, \enquote{Understanding the difficulty of training
+  deep feedforward neural networks}, in \enquote{Proceedings of the Thirteenth
+  International Conference on Artificial Intelligence and Statistics}, pp.
+  249--256 (2010).
+
+\bibitem[Gonz{\'a}lez \emph{et~al.}(2020)]{gonzalez2020computer}
+Gonz{\'a}lez, G., D.~Jimenez-Carretero, S.~Rodr{\'\i}guez-L{\'o}pez,
+  C.~Cano-Espinosa, M.~Cazorla, T.~Agarwal, V.~Agarwal, N.~Tajbakhsh, M.~B.
+  Gotway, J.~Liang \emph{et~al.}, \enquote{Computer aided detection for
+  pulmonary embolism challenge (cad-pe)}, arXiv preprint arXiv:2003.13440
+  (2020).
+
+\bibitem[Goodfellow \emph{et~al.}(2016)]{goodfellow2016deep}
+Goodfellow, I., Y.~Bengio, A.~Courville and Y.~Bengio, \emph{Deep learning},
+  vol.~1 (MIT press Cambridge, 2016).
+
+\bibitem[Goyal \emph{et~al.}(2019)]{goyal2019scaling}
+Goyal, P., D.~Mahajan, A.~Gupta and I.~Misra, \enquote{Scaling and benchmarking
+  self-supervised visual representation learning}, in \enquote{Proceedings of
+  the IEEE International Conference on Computer Vision}, pp. 6391--6400 (2019).
+
+\bibitem[Graham(2014)]{graham2014fractional}
+Graham, B., \enquote{Fractional max-pooling}, arXiv preprint arXiv:1412.6071
+  (2014).
+
+\bibitem[Greenspan \emph{et~al.}(2016)]{greenspan2016guest}
+Greenspan, H., B.~van Ginneken and R.~M. Summers, \enquote{Guest editorial deep
+  learning in medical imaging: Overview and future promise of an exciting new
+  technique}, IEEE Transactions on Medical Imaging \textbf{35}, 5, 1153--1159
+  (2016).
+
+\bibitem[Grill \emph{et~al.}(2020)]{grill2020bootstrap}
+Grill, J.-B., F.~Strub, F.~Altch{\'e}, C.~Tallec, P.~H. Richemond,
+  E.~Buchatskaya, C.~Doersch, B.~A. Pires, Z.~D. Guo, M.~G. Azar \emph{et~al.},
+  \enquote{Bootstrap your own latent: A new approach to self-supervised
+  learning}, arXiv preprint arXiv:2006.07733  (2020).
+
+\bibitem[Guan and Huang(2018)]{guan2018multi}
+Guan, Q. and Y.~Huang, \enquote{Multi-label chest x-ray image classification
+  via category-wise residual attention learning}, Pattern Recognition Letters
+  (2018).
+
+\bibitem[Guendel \emph{et~al.}(2018)]{guendel2018learning}
+Guendel, S., S.~Grbic, B.~Georgescu, S.~Liu, A.~Maier and D.~Comaniciu,
+  \enquote{Learning to recognize abnormalities in chest x-rays with
+  location-aware dense networks}, in \enquote{Iberoamerican Congress on Pattern
+  Recognition}, pp. 757--765 (Springer, 2018).
+
+\bibitem[Gulshan \emph{et~al.}(2016)]{gulshan2016development}
+Gulshan, V., L.~Peng, M.~Coram, M.~C. Stumpe, D.~Wu, A.~Narayanaswamy,
+  S.~Venugopalan, K.~Widner, T.~Madams, J.~Cuadros \emph{et~al.},
+  \enquote{Development and validation of a deep learning algorithm for
+  detection of diabetic retinopathy in retinal fundus photographs}, Jama
+  \textbf{316}, 22, 2402--2410 (2016).
+
+\bibitem[Guo \emph{et~al.}(2019)]{guo2019streaming}
+Guo, L., H.~Yin, Q.~Wang, T.~Chen, A.~Zhou and N.~Quoc Viet~Hung,
+  \enquote{Streaming session-based recommendation}, in \enquote{Proceedings of
+  the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data
+  Mining}, pp. 1569--1577 (ACM, 2019).
+
+\bibitem[Guo(2021)]{guo2021first}
+Guo, X., \enquote{First-arrival picking for microseismic monitoring based on
+  deep learning}, International Journal of Geophysics \textbf{2021} (2021).
+
+\bibitem[Guyon \emph{et~al.}(2011)]{guyon2011results}
+Guyon, I., G.~C. Cawley, G.~Dror and V.~Lemaire, \enquote{Results of the active
+  learning challenge}, in \enquote{Active Learning and Experimental Design
+  workshop In conjunction with AISTATS 2010}, pp. 19--45 (2011).
+
+\bibitem[Haenssle \emph{et~al.}(2018)]{haenssle2018man}
+Haenssle, H.~A., C.~Fink, R.~Schneiderbauer, F.~Toberer, T.~Buhl, A.~Blum,
+  A.~Kalloo, A.~B.~H. Hassen, L.~Thomas, A.~Enk \emph{et~al.}, \enquote{Man
+  against machine: diagnostic performance of a deep learning convolutional
+  neural network for dermoscopic melanoma recognition in comparison to 58
+  dermatologists}, Annals of Oncology \textbf{29}, 8, 1836--1842 (2018).
+
+\bibitem[Haghighi \emph{et~al.}(2020)]{haghighi2020learning}
+Haghighi, F., M.~R.~H. Taher, Z.~Zhou, M.~B. Gotway and J.~Liang,
+  \enquote{Learning semantics-enriched representation via self-discovery,
+  self-classification, and self-restoration}, in \enquote{International
+  Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pp. 137--147 (Springer, 2020).
+
+\bibitem[Hara \emph{et~al.}(2018)]{hara2018can}
+Hara, K., H.~Kataoka and Y.~Satoh, \enquote{Can spatiotemporal 3d cnns retrace
+  the history of 2d cnns and imagenet?}, in \enquote{Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition}, pp. 6546--6555
+  (2018).
+
+\bibitem[Hariharan \emph{et~al.}(2015)]{hariharan2015hypercolumns}
+Hariharan, B., P.~Arbel{\'a}ez, R.~Girshick and J.~Malik, \enquote{Hypercolumns
+  for object segmentation and fine-grained localization}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 447--456 (2015).
+
+\bibitem[He and Garcia(2009)]{he2009learning}
+He, H. and E.~A. Garcia, \enquote{Learning from imbalanced data}, IEEE
+  Transactions on knowledge and data engineering \textbf{21}, 9, 1263--1284
+  (2009).
+
+\bibitem[He \emph{et~al.}(2020)]{he2020momentum}
+He, K., H.~Fan, Y.~Wu, S.~Xie and R.~Girshick, \enquote{Momentum contrast for
+  unsupervised visual representation learning}, in \enquote{Proceedings of the
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp.
+  9729--9738 (2020).
+
+\bibitem[He \emph{et~al.}(2017)]{he2017mask}
+He, K., G.~Gkioxari, P.~Doll{\'a}r and R.~Girshick, \enquote{Mask r-cnn}, in
+  \enquote{Proceedings of the IEEE International Conference on Computer
+  Vision}, pp. 2980--2988 (IEEE, 2017).
+
+\bibitem[He \emph{et~al.}(2015)]{he2015delving}
+He, K., X.~Zhang, S.~Ren and J.~Sun, \enquote{Delving deep into rectifiers:
+  Surpassing human-level performance on imagenet classification}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 1026--1034 (2015).
+
+\bibitem[He \emph{et~al.}(2016{\natexlab{a}})]{he2016deep}
+He, K., X.~Zhang, S.~Ren and J.~Sun, \enquote{Deep residual learning for image
+  recognition}, in \enquote{Proceedings of the IEEE Conference on Computer
+  Vision and Pattern Recognition}, pp. 770--778 (2016{\natexlab{a}}).
+
+\bibitem[He \emph{et~al.}(2016{\natexlab{b}})]{he2016identity}
+He, K., X.~Zhang, S.~Ren and J.~Sun, \enquote{Identity mappings in deep
+  residual networks}, in \enquote{Proceedings of the European Conference on
+  Computer Vision}, pp. 630--645 (Springer, 2016{\natexlab{b}}).
+
+\bibitem[Hendrycks \emph{et~al.}(2019)]{hendrycks2019using}
+Hendrycks, D., M.~Mazeika, S.~Kadavath and D.~Song, \enquote{Using
+  self-supervised learning can improve model robustness and uncertainty}, in
+  \enquote{Advances in Neural Information Processing Systems}, pp. 15637--15648
+  (2019).
+
+\bibitem[Hino(2020)]{hino2020active}
+Hino, H., \enquote{Active learning: Problem settings and recent developments},
+  arXiv preprint arXiv:2012.04225  (2020).
+
+\bibitem[Hinton(2021)]{hinton2021represent}
+Hinton, G., \enquote{How to represent part-whole hierarchies in a neural
+  network}, arXiv preprint arXiv:2102.12627  (2021).
+
+\bibitem[Hinton \emph{et~al.}(2015)]{hinton2015distilling}
+Hinton, G., O.~Vinyals and J.~Dean, \enquote{Distilling the knowledge in a
+  neural network}, arXiv preprint arXiv:1503.02531  (2015).
+
+\bibitem[Holub \emph{et~al.}(2008)]{holub2008entropy}
+Holub, A., P.~Perona and M.~C. Burl, \enquote{Entropy-based active learning for
+  object recognition}, in \enquote{2008 IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition Workshops}, pp. 1--8 (IEEE, 2008).
+
+\bibitem[Hoo-Chang \emph{et~al.}(2016)]{hoo2016deep}
+Hoo-Chang, S., H.~R. Roth, M.~Gao, L.~Lu, Z.~Xu, I.~Nogues, J.~Yao, D.~Mollura
+  and R.~M. Summers, \enquote{Deep convolutional neural networks for
+  computer-aided detection: Cnn architectures, dataset characteristics and
+  transfer learning}, IEEE transactions on medical imaging \textbf{35}, 5, 1285
+  (2016).
+
+\bibitem[Horlander \emph{et~al.}(2003)]{horlander2003pulmonary}
+Horlander, K.~T., D.~M. Mannino and K.~V. Leeper, \enquote{Pulmonary embolism
+  mortality in the united states, 1979-1998: an analysis using multiple-cause
+  mortality data}, Archives of internal medicine \textbf{163}, 14, 1711--1717
+  (2003).
+
+\bibitem[Hu \emph{et~al.}(2018)]{hu2018learning}
+Hu, R., P.~Doll{\'a}r, K.~He, T.~Darrell and R.~Girshick, \enquote{Learning to
+  segment every thing}, in \enquote{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition}, pp. 4233--4241 (2018).
+
+\bibitem[Huang \emph{et~al.}(2017)]{huang2017densely}
+Huang, G., Z.~Liu, K.~Q. Weinberger and L.~van~der Maaten, \enquote{Densely
+  connected convolutional networks}, in \enquote{Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition}, vol.~1, p.~3 (2017).
+
+\bibitem[Huang \emph{et~al.}(2020)]{huang2020penet}
+Huang, S.-C., T.~Kothari, I.~Banerjee, C.~Chute, R.~L. Ball, N.~Borus,
+  A.~Huang, B.~N. Patel, P.~Rajpurkar, J.~Irvin \emph{et~al.},
+  \enquote{Penet—a scalable deep-learning model for automated diagnosis of
+  pulmonary embolism using volumetric ct imaging}, npj Digital Medicine
+  \textbf{3}, 1, 1--9 (2020).
+
+\bibitem[Huang \emph{et~al.}(2019)]{huang2019cost}
+Huang, Y., Z.~Liu, M.~Jiang, X.~Yu and X.~Ding, \enquote{Cost-effective vehicle
+  type recognition in surveillance images with deep active learning and web
+  data}, IEEE Transactions on Intelligent Transportation Systems  (2019).
+
+\bibitem[Hurst \emph{et~al.}(2010)]{hurst2010incidence}
+Hurst, R.~T., R.~F. Burke, E.~Wissner, A.~Roberts, C.~B. Kendall, S.~J. Lester,
+  V.~Somers, M.~E. Goldman, Q.~Wu and B.~Khandheria, \enquote{Incidence of
+  subclinical atherosclerosis as a marker of cardiovascular risk in retired
+  professional football players}, The American journal of cardiology
+  \textbf{105}, 8, 1107--1111 (2010).
+
+\bibitem[Hutchinson \emph{et~al.}(2015)]{hutchinson2015overdiagnosis}
+Hutchinson, B.~D., P.~Navin, E.~M. Marom, M.~T. Truong and J.~F. Bruzzi,
+  \enquote{Overdiagnosis of pulmonary embolism by pulmonary ct angiography},
+  American Journal of Roentgenology \textbf{205}, 2, 271--277 (2015).
+
+\bibitem[Iizuka \emph{et~al.}(2017)]{iizuka2017globally}
+Iizuka, S., E.~Simo-Serra and H.~Ishikawa, \enquote{Globally and locally
+  consistent image completion}, ACM Transactions on Graphics (ToG) \textbf{36},
+  4, 107 (2017).
+
+\bibitem[Ioffe and Szegedy(2015)]{ioffe2015batch}
+Ioffe, S. and C.~Szegedy, \enquote{Batch normalization: Accelerating deep
+  network training by reducing internal covariate shift}, arXiv preprint
+  arXiv:1502.03167  (2015).
+
+\bibitem[Irvin \emph{et~al.}(2019)]{irvin2019chexpert}
+Irvin, J., P.~Rajpurkar, M.~Ko, Y.~Yu, S.~Ciurea-Ilcus, C.~Chute, H.~Marklund,
+  B.~Haghgoo, R.~Ball, K.~Shpanskaya \emph{et~al.}, \enquote{Chexpert: A large
+  chest radiograph dataset with uncertainty labels and expert comparison}, in
+  \enquote{Proceedings of the AAAI Conference on Artificial Intelligence},
+  vol.~33, pp. 590--597 (2019).
+
+\bibitem[Isensee \emph{et~al.}(2021)]{isensee2021nnu}
+Isensee, F., P.~F. Jaeger, S.~A. Kohl, J.~Petersen and K.~H. Maier-Hein,
+  \enquote{nnu-net: a self-configuring method for deep learning-based
+  biomedical image segmentation}, Nature Methods \textbf{18}, 2, 203--211
+  (2021).
+
+\bibitem[Jamaludin \emph{et~al.}(2017)]{jamaludin2017self}
+Jamaludin, A., T.~Kadir and A.~Zisserman, \enquote{Self-supervised learning for
+  spinal mris}, in \enquote{Deep Learning in Medical Image Analysis and
+  Multimodal Learning for Clinical Decision Support}, pp. 294--302 (Springer,
+  2017).
+
+\bibitem[Japkowicz and Stephen(2002)]{japkowicz2002class}
+Japkowicz, N. and S.~Stephen, \enquote{The class imbalance problem: A
+  systematic study}, Intelligent data analysis \textbf{6}, 5, 429--449 (2002).
+
+\bibitem[Jia \emph{et~al.}(2021)]{jia2021moon}
+Jia, Y., L.~Liu and C.~Zhang, \enquote{Moon impact crater detection using
+  nested attention mechanism based unet++}, IEEE Access \textbf{9},
+  44107--44116 (2021).
+
+\bibitem[Jiang \emph{et~al.}(2019)]{jiang2019multiple}
+Jiang, J., Y.-C. Hu, C.-J. Liu, D.~Halpenny, M.~D. Hellmann, J.~O. Deasy,
+  G.~Mageras and H.~Veeraraghavan, \enquote{Multiple resolution residually
+  connected feature streams for automatic lung tumor segmentation from ct
+  images}, IEEE transactions on medical imaging \textbf{38}, 1, 134--144
+  (2019).
+
+\bibitem[Jing and Tian(2020)]{jing2020self}
+Jing, L. and Y.~Tian, \enquote{Self-supervised visual feature learning with
+  deep neural networks: A survey}, IEEE Transactions on Pattern Analysis and
+  Machine Intelligence  (2020).
+
+\bibitem[K{\"a}ding \emph{et~al.}(2016)]{kading2016fine}
+K{\"a}ding, C., E.~Rodner, A.~Freytag and J.~Denzler, \enquote{Fine-tuning deep
+  neural networks in continuous learning scenarios}, in \enquote{Asian
+  Conference on Computer Vision}, pp. 588--605 (Springer, 2016).
+
+\bibitem[Kang \emph{et~al.}(2017)]{kang2017patchshuffle}
+Kang, G., X.~Dong, L.~Zheng and Y.~Yang, \enquote{Patchshuffle regularization},
+  arXiv preprint arXiv:1707.07103  (2017).
+
+\bibitem[Kinga and Adam(2015)]{kinga2015method}
+Kinga, D. and J.~B. Adam, \enquote{A method for stochastic optimization}, in
+  \enquote{International Conference on Learning Representations (ICLR)}, vol.~5
+  (2015).
+
+\bibitem[Kirkpatrick \emph{et~al.}(2017)]{kirkpatrick2017overcoming}
+Kirkpatrick, J., R.~Pascanu, N.~Rabinowitz, J.~Veness, G.~Desjardins, A.~A.
+  Rusu, K.~Milan, J.~Quan, T.~Ramalho, A.~Grabska-Barwinska \emph{et~al.},
+  \enquote{Overcoming catastrophic forgetting in neural networks}, Proceedings
+  of the national academy of sciences \textbf{114}, 13, 3521--3526 (2017).
+
+\bibitem[Kistler \emph{et~al.}(2013)]{kistler2013virtual}
+Kistler, M., S.~Bonaretti, M.~Pfahrer, R.~Niklaus and P.~B{\"u}chler,
+  \enquote{The virtual skeleton database: an open access repository for
+  biomedical research and collaboration}, Journal of medical Internet research
+  \textbf{15}, 11, e245 (2013).
+
+\bibitem[Kolesnikov \emph{et~al.}(2019)]{kolesnikov2019revisiting}
+Kolesnikov, A., X.~Zhai and L.~Beyer, \enquote{Revisiting self-supervised
+  visual representation learning}, in \enquote{Proceedings of the IEEE
+  conference on Computer Vision and Pattern Recognition}, pp. 1920--1929
+  (2019).
+
+\bibitem[Kooi \emph{et~al.}(2017)]{kooi2017large}
+Kooi, T., G.~Litjens, B.~Van~Ginneken, A.~Gubern-M{\'e}rida, C.~I. S{\'a}nchez,
+  R.~Mann, A.~den Heeten and N.~Karssemeijer, \enquote{Large scale deep
+  learning for computer aided detection of mammographic lesions}, Medical image
+  analysis \textbf{35}, 303--312 (2017).
+
+\bibitem[Kovashka \emph{et~al.}(2016)]{kovashka2016crowdsourcing}
+Kovashka, A., O.~Russakovsky, L.~Fei-Fei and K.~Grauman, \enquote{Crowdsourcing
+  in computer vision}, arXiv preprint arXiv:1611.02145  (2016).
+
+\bibitem[Krizhevsky \emph{et~al.}(2012)]{krizhevsky2012imagenet}
+Krizhevsky, A., I.~Sutskever and G.~E. Hinton, \enquote{Imagenet classification
+  with deep convolutional neural networks}, in \enquote{Advances in neural
+  information processing systems}, pp. 1097--1105 (2012).
+
+\bibitem[Kukar(2003)]{kukar2003transductive}
+Kukar, M., \enquote{Transductive reliability estimation for medical diagnosis},
+  Artificial Intelligence in Medicine \textbf{29}, 1, 81--106 (2003).
+
+\bibitem[Kulick \emph{et~al.}(2014)]{kulick2014active}
+Kulick, J., R.~Lieck, M.~Toussaint \emph{et~al.}, \enquote{Active learning of
+  hyperparameters: An expected cross entropy criterion for active model
+  selection}, ArXiv e-prints  (2014).
+
+\bibitem[Kuo \emph{et~al.}(2018)]{kuo2018cost}
+Kuo, W., C.~H{\"a}ne, E.~Yuh, P.~Mukherjee and J.~Malik,
+  \enquote{Cost-sensitive active learning for intracranial hemorrhage
+  detection}, in \enquote{International Conference on Medical Image Computing
+  and Computer-Assisted Intervention}, pp. 715--723 (Springer, 2018).
+
+\bibitem[Lake \emph{et~al.}(2015)]{lake2015human}
+Lake, B.~M., R.~Salakhutdinov and J.~B. Tenenbaum, \enquote{Human-level concept
+  learning through probabilistic program induction}, Science \textbf{350},
+  6266, 1332--1338 (2015).
+
+\bibitem[LeCun \emph{et~al.}(2015)]{lecun2015deep}
+LeCun, Y., Y.~Bengio and G.~Hinton, \enquote{Deep learning}, nature
+  \textbf{521}, 7553, 436 (2015).
+
+\bibitem[LeCun \emph{et~al.}(1989)]{lecun1989backpropagation}
+LeCun, Y., B.~Boser, J.~S. Denker, D.~Henderson, R.~E. Howard, W.~Hubbard and
+  L.~D. Jackel, \enquote{Backpropagation applied to handwritten zip code
+  recognition}, Neural computation \textbf{1}, 4, 541--551 (1989).
+
+\bibitem[Lee \emph{et~al.}(2015)]{lee2015deeply}
+Lee, C.-Y., S.~Xie, P.~Gallagher, Z.~Zhang and Z.~Tu,
+  \enquote{Deeply-supervised nets}, in \enquote{Artificial Intelligence and
+  Statistics}, pp. 562--570 (2015).
+
+\bibitem[Li and Guo(2013)]{li2013adaptive}
+Li, X. and Y.~Guo, \enquote{Adaptive active learning for image classification},
+  in \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 859--866 (2013).
+
+\bibitem[Li \emph{et~al.}(2020)]{li2020transformation}
+Li, X., L.~Yu, H.~Chen, C.-W. Fu, L.~Xing and P.-A. Heng,
+  \enquote{Transformation-consistent self-ensembling model for semisupervised
+  medical image segmentation}, IEEE Transactions on Neural Networks and
+  Learning Systems  (2020).
+
+\bibitem[Li \emph{et~al.}(2019{\natexlab{a}})]{li2019partial}
+Li, X., Y.~Zhou, Z.~Pan and J.~Feng, \enquote{Partial order pruning: for best
+  speed/accuracy trade-off in neural architecture search}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 9145--9153 (2019{\natexlab{a}}).
+
+\bibitem[Li \emph{et~al.}(2019{\natexlab{b}})]{li2019reverse}
+Li, Y., X.~Xie, L.~Shen and S.~Liu, \enquote{Reverse active learning based
+  atrous densenet for pathological image classification}, BMC bioinformatics
+  \textbf{20}, 1, 445 (2019{\natexlab{b}}).
+
+\bibitem[Liang and Bi(2007)]{liang2007computer}
+Liang, J. and J.~Bi, \enquote{Computer aided detection of pulmonary embolism
+  with tobogganing and mutiple instance classification in ct pulmonary
+  angiography}, in \enquote{Biennial International Conference on Information
+  Processing in Medical Imaging}, pp. 630--641 (Springer, 2007).
+
+\bibitem[Lin \emph{et~al.}(2017{\natexlab{a}})]{lin2017refinenet}
+Lin, G., A.~Milan, C.~Shen and I.~D. Reid, \enquote{Refinenet: Multi-path
+  refinement networks for high-resolution semantic segmentation.}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, vol.~1, p.~5 (2017{\natexlab{a}}).
+
+\bibitem[Lin \emph{et~al.}(2017{\natexlab{b}})]{lin2017feature}
+Lin, T.-Y., P.~Doll{\'a}r, R.~Girshick, K.~He, B.~Hariharan and S.~Belongie,
+  \enquote{Feature pyramid networks for object detection}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, vol.~1, p.~4 (2017{\natexlab{b}}).
+
+\bibitem[Litjens \emph{et~al.}(2017)]{litjens2017survey}
+Litjens, G., T.~Kooi, B.~E. Bejnordi, A.~A.~A. Setio, F.~Ciompi, M.~Ghafoorian,
+  J.~A. Van Der~Laak, B.~Van~Ginneken and C.~I. S{\'a}nchez, \enquote{A survey
+  on deep learning in medical image analysis}, Medical image analysis
+  \textbf{42}, 60--88 (2017).
+
+\bibitem[Liu \emph{et~al.}(2019{\natexlab{a}})]{liu2019auto}
+Liu, C., L.-C. Chen, F.~Schroff, H.~Adam, W.~Hua, A.~L. Yuille and L.~Fei-Fei,
+  \enquote{Auto-deeplab: Hierarchical neural architecture search for semantic
+  image segmentation}, in \enquote{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition}, pp. 82--92 (2019{\natexlab{a}}).
+
+\bibitem[Liu \emph{et~al.}(2020)]{liu2020labels}
+Liu, C., P.~Doll{\'a}r, K.~He, R.~Girshick, A.~Yuille and S.~Xie, \enquote{Are
+  labels necessary for neural architecture search?}, in \enquote{European
+  Conference on Computer Vision}, pp. 798--813 (Springer, 2020).
+
+\bibitem[Liu \emph{et~al.}(2018)]{liu2018progressive}
+Liu, C., B.~Zoph, M.~Neumann, J.~Shlens, W.~Hua, L.-J. Li, L.~Fei-Fei,
+  A.~Yuille, J.~Huang and K.~Murphy, \enquote{Progressive neural architecture
+  search}, in \enquote{Proceedings of the European Conference on Computer
+  Vision}, pp. 19--34 (2018).
+
+\bibitem[Liu \emph{et~al.}(2019{\natexlab{b}})]{liu2019exploiting}
+Liu, X., J.~Van De~Weijer and A.~D. Bagdanov, \enquote{Exploiting unlabeled
+  data in cnns by self-supervised learning to rank}, IEEE transactions on
+  pattern analysis and machine intelligence  (2019{\natexlab{b}}).
+
+\bibitem[Long \emph{et~al.}(2015)]{long2015fully}
+Long, J., E.~Shelhamer and T.~Darrell, \enquote{Fully convolutional networks
+  for semantic segmentation}, in \enquote{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition}, pp. 3431--3440 (2015).
+
+\bibitem[Lu \emph{et~al.}(2017)]{lu2017deep}
+Lu, L., Y.~Zheng, G.~Carneiro and L.~Yang, \enquote{Deep learning and
+  convolutional neural networks for medical image computing}, Advances in
+  Computer Vision and Pattern Recognition  (2017).
+
+\bibitem[Ma \emph{et~al.}(2019)]{ma2019multi}
+Ma, Y., Q.~Zhou, X.~Chen, H.~Lu and Y.~Zhao, \enquote{Multi-attention network
+  for thoracic disease classification and localization}, in \enquote{ICASSP
+  2019-2019 IEEE International Conference on Acoustics, Speech and Signal
+  Processing (ICASSP)}, pp. 1378--1382 (IEEE, 2019).
+
+\bibitem[Mahapatra \emph{et~al.}(2018)]{mahapatra2018efficient}
+Mahapatra, D., B.~Bozorgtabar, J.-P. Thiran and M.~Reyes, \enquote{Efficient
+  active learning for image classification and segmentation using a sample
+  selection and conditional generative adversarial network}, in
+  \enquote{International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pp. 580--588 (Springer, 2018).
+
+\bibitem[Mahendran \emph{et~al.}(2018)]{mahendran2018cross}
+Mahendran, A., J.~Thewlis and A.~Vedaldi, \enquote{Cross pixel optical-flow
+  similarity for self-supervised learning}, in \enquote{Asian Conference on
+  Computer Vision}, pp. 99--116 (Springer, 2018).
+
+\bibitem[Martin \emph{et~al.}(2020)]{martin2020time}
+Martin, K.~A., R.~Molsberry, M.~J. Cuttica, K.~R. Desai, D.~R. Schimmel and
+  S.~S. Khan, \enquote{Time trends in pulmonary embolism mortality rates in the
+  united states, 1999 to 2018}, Journal of the American Heart Association
+  \textbf{9}, 17, e016784 (2020).
+
+\bibitem[McCallumzy and Nigamy(1998)]{mccallumzy1998employing}
+McCallumzy, A.~K. and K.~Nigamy, \enquote{Employing em and pool-based active
+  learning for text classification}, in \enquote{Proc. International Conference
+  on Machine Learning (ICML)}, pp. 359--367 (Citeseer, 1998).
+
+\bibitem[McCloskey and Cohen(1989)]{mccloskey1989catastrophic}
+McCloskey, M. and N.~J. Cohen, \enquote{Catastrophic interference in
+  connectionist networks: The sequential learning problem}, in
+  \enquote{Psychology of learning and motivation}, vol.~24, pp. 109--165
+  (Elsevier, 1989).
+
+\bibitem[McKinney \emph{et~al.}(2020)]{mckinney2020international}
+McKinney, S.~M., M.~Sieniek, V.~Godbole, J.~Godwin, N.~Antropova, H.~Ashrafian,
+  T.~Back, M.~Chesus, G.~S. Corrado, A.~Darzi \emph{et~al.},
+  \enquote{International evaluation of an ai system for breast cancer
+  screening}, Nature \textbf{577}, 7788, 89--94 (2020).
+
+\bibitem[Meng \emph{et~al.}(2020)]{meng2020multiscale}
+Meng, C., K.~Sun, S.~Guan, Q.~Wang, R.~Zong and L.~Liu, \enquote{Multiscale
+  dense convolutional neural network for dsa cerebrovascular segmentation},
+  Neurocomputing \textbf{373}, 123--134 (2020).
+
+\bibitem[Menze \emph{et~al.}(2015)]{menze2015multimodal}
+Menze, B.~H., A.~Jakab, S.~Bauer, J.~Kalpathy-Cramer, K.~Farahani, J.~Kirby,
+  Y.~Burren, N.~Porz, J.~Slotboom, R.~Wiest \emph{et~al.}, \enquote{The
+  multimodal brain tumor image segmentation benchmark (brats)}, IEEE
+  transactions on medical imaging \textbf{34}, 10, 1993 (2015).
+
+\bibitem[Meyer \emph{et~al.}(2015)]{meyer2015cell}
+Meyer, M.~G., J.~W. Hayenga, T.~Neumann, R.~Katdare, C.~Presley, D.~E.
+  Steinhauer, T.~M. Bell, C.~A. Lancaster and A.~C. Nelson, \enquote{The
+  cell-ct 3-dimensional cell imaging technology platform enables the detection
+  of lung cancer using the noninvasive luced sputum test}, Cancer cytopathology
+  \textbf{123}, 9, 512--523 (2015).
+
+\bibitem[Milletari \emph{et~al.}(2016)]{milletari2016v}
+Milletari, F., N.~Navab and S.-A. Ahmadi, \enquote{V-net: Fully convolutional
+  neural networks for volumetric medical image segmentation}, in \enquote{2016
+  Fourth International Conference on 3D Vision (3DV)}, pp. 565--571 (IEEE,
+  2016).
+
+\bibitem[Moen \emph{et~al.}(2019)]{moen2019deep}
+Moen, E., D.~Bannon, T.~Kudo, W.~Graf, M.~Covert and D.~Van~Valen,
+  \enquote{Deep learning for cellular image analysis}, Nature methods pp. 1--14
+  (2019).
+
+\bibitem[Mortenson(1999)]{mortenson1999mathematics}
+Mortenson, M.~E., \emph{Mathematics for computer graphics applications}
+  (Industrial Press Inc., 1999).
+
+\bibitem[Mundhenk \emph{et~al.}(2018)]{mundhenk2018improvements}
+Mundhenk, T.~N., D.~Ho and B.~Y. Chen, \enquote{Improvements to context based
+  self-supervised learning.}, in \enquote{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition}, pp. 9339--9348 (2018).
+
+\bibitem[Mundt \emph{et~al.}(2020)]{mundt2020wholistic}
+Mundt, M., Y.~W. Hong, I.~Pliushch and V.~Ramesh, \enquote{A wholistic view of
+  continual learning with deep neural networks: Forgotten lessons and the
+  bridge to active and open world learning}, arXiv preprint arXiv:2009.01797
+  (2020).
+
+\bibitem[Munjal \emph{et~al.}(2020)]{munjal2020towards}
+Munjal, P., N.~Hayat, M.~Hayat, J.~Sourati and S.~Khan, \enquote{Towards robust
+  and reproducible active learning using neural networks}, ArXiv,
+  abs/2002.09564  (2020).
+
+\bibitem[NLST(2011)]{national2011reduced}
+NLST, \enquote{Reduced lung-cancer mortality with low-dose computed tomographic
+  screening}, New England Journal of Medicine \textbf{365}, 5, 395--409 (2011).
+
+\bibitem[Noroozi and Favaro(2016)]{noroozi2016unsupervised}
+Noroozi, M. and P.~Favaro, \enquote{Unsupervised learning of visual
+  representations by solving jigsaw puzzles}, in \enquote{European Conference
+  on Computer Vision}, pp. 69--84 (Springer, 2016).
+
+\bibitem[Noroozi \emph{et~al.}(2018)]{noroozi2018boosting}
+Noroozi, M., A.~Vinjimoor, P.~Favaro and H.~Pirsiavash, \enquote{Boosting
+  self-supervised learning via knowledge transfer}, in \enquote{Proceedings of
+  the IEEE Conference on Computer Vision and Pattern Recognition}, pp.
+  9359--9367 (2018).
+
+\bibitem[Oftedal(2019)]{oftedal2019uncertainty}
+Oftedal, T. O.~S., \emph{Uncertainty Measures and Transfer Learning in Active
+  Learning for Text Classification}, Master's thesis, NTNU (2019).
+
+\bibitem[Ozdemir \emph{et~al.}(2018)]{ozdemir2018active}
+Ozdemir, F., Z.~Peng, C.~Tanner, P.~Fuernstahl and O.~Goksel, \enquote{Active
+  learning for segmentation by optimizing content information for maximal
+  entropy}, in \enquote{Deep Learning in Medical Image Analysis and Multimodal
+  Learning for Clinical Decision Support}, pp. 183--191 (Springer, 2018).
+
+\bibitem[Pan and Yang(2010)]{pan2010survey}
+Pan, S.~J. and Q.~Yang, \enquote{A survey on transfer learning}, IEEE
+  Transactions on knowledge and data engineering \textbf{22}, 10, 1345--1359
+  (2010).
+
+\bibitem[Parisi \emph{et~al.}(2019)]{parisi2019continual}
+Parisi, G.~I., R.~Kemker, J.~L. Part, C.~Kanan and S.~Wermter,
+  \enquote{Continual lifelong learning with neural networks: A review}, Neural
+  Networks \textbf{113}, 54--71 (2019).
+
+\bibitem[Pathak \emph{et~al.}(2016)]{pathak2016context}
+Pathak, D., P.~Krahenbuhl, J.~Donahue, T.~Darrell and A.~A. Efros,
+  \enquote{Context encoders: Feature learning by inpainting}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 2536--2544 (2016).
+
+\bibitem[Pauley \emph{et~al.}(2019)]{pauley2019age}
+Pauley, E., R.~Orgel, J.~S. Rossi and P.~D. Strassle, \enquote{Age-stratified
+  national trends in pulmonary embolism admissions}, Chest \textbf{156}, 4,
+  733--742 (2019).
+
+\bibitem[Perez and Wang(2017)]{perez2017effectiveness}
+Perez, L. and J.~Wang, \enquote{The effectiveness of data augmentation in image
+  classification using deep learning}, arXiv preprint arXiv:1712.04621  (2017).
+
+\bibitem[Pohlen \emph{et~al.}(2017)]{pohlen2017full}
+Pohlen, T., A.~Hermans, M.~Mathias and B.~Leibe, \enquote{Full-resolution
+  residual networks for semantic segmentation in street scenes}, in
+  \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 4151--4160 (2017).
+
+\bibitem[Poplin \emph{et~al.}(2018)]{poplin2018prediction}
+Poplin, R., A.~V. Varadarajan, K.~Blumer, Y.~Liu, M.~V. McConnell, G.~S.
+  Corrado, L.~Peng and D.~R. Webster, \enquote{Prediction of cardiovascular
+  risk factors from retinal fundus photographs via deep learning}, Nature
+  Biomedical Engineering \textbf{2}, 3, 158 (2018).
+
+\bibitem[Prasoon \emph{et~al.}(2013)]{prasoon2013deep}
+Prasoon, A., K.~Petersen, C.~Igel, F.~Lauze, E.~Dam and M.~Nielsen,
+  \enquote{Deep feature learning for knee cartilage segmentation using a
+  triplanar convolutional neural network}, in \enquote{International conference
+  on medical image computing and computer-assisted intervention}, pp. 246--253
+  (Springer, 2013).
+
+\bibitem[Prince and Links(2006)]{prince2006medical}
+Prince, J.~L. and J.~M. Links, \emph{Medical imaging signals and systems}
+  (Pearson Prentice Hall Upper Saddle River, 2006).
+
+\bibitem[Purushwalkam and Gupta(2020)]{purushwalkam2020demystifying}
+Purushwalkam, S. and A.~Gupta, \enquote{Demystifying contrastive
+  self-supervised learning: Invariances, augmentations and dataset biases},
+  arXiv preprint arXiv:2007.13916  (2020).
+
+\bibitem[Raghu \emph{et~al.}(2019)]{raghu2019transfusion}
+Raghu, M., C.~Zhang, J.~Kleinberg and S.~Bengio, \enquote{Transfusion:
+  Understanding transfer learning for medical imaging}, arXiv preprint
+  arXiv:1902.07208  (2019).
+
+\bibitem[Ratner \emph{et~al.}(2017)]{ratner2017learning}
+Ratner, A.~J., H.~Ehrenberg, Z.~Hussain, J.~Dunnmon and C.~R{\'e},
+  \enquote{Learning to compose domain-specific transformations for data
+  augmentation}, in \enquote{Advances in neural information processing
+  systems}, pp. 3236--3246 (2017).
+
+\bibitem[Ravizza \emph{et~al.}(2019)]{ravizza2019predicting}
+Ravizza, S., T.~Huschto, A.~Adamov, L.~B{\"o}hm, A.~B{\"u}sser, F.~F.
+  Fl{\"o}ther, R.~Hinzmann, H.~K{\"o}nig, S.~M. McAhren, D.~H. Robertson
+  \emph{et~al.}, \enquote{Predicting the early risk of chronic kidney disease
+  in patients with diabetes using real-world data}, Nature medicine
+  \textbf{25}, 1, 57--59 (2019).
+
+\bibitem[Rawat and Wang(2017)]{rawat2017deep}
+Rawat, W. and Z.~Wang, \enquote{Deep convolutional neural networks for image
+  classification: A comprehensive review}, Neural computation \textbf{29}, 9,
+  2352--2449 (2017).
+
+\bibitem[Ren \emph{et~al.}(2020)]{ren2020survey}
+Ren, P., Y.~Xiao, X.~Chang, P.-Y. Huang, Z.~Li, X.~Chen and X.~Wang, \enquote{A
+  survey of deep active learning}, arXiv preprint arXiv:2009.00236  (2020).
+
+\bibitem[Ronneberger \emph{et~al.}(2015)]{ronneberger2015u}
+Ronneberger, O., P.~Fischer and T.~Brox, \enquote{U-net: Convolutional networks
+  for biomedical image segmentation}, in \enquote{International Conference on
+  Medical Image Computing and Computer-Assisted Intervention}, pp. 234--241
+  (Springer, 2015).
+
+\bibitem[Ross \emph{et~al.}(2018)]{ross2018exploiting}
+Ross, T., D.~Zimmerer, A.~Vemuri, F.~Isensee, M.~Wiesenfarth, S.~Bodenstedt,
+  F.~Both, P.~Kessler, M.~Wagner, B.~M{\"u}ller \emph{et~al.},
+  \enquote{Exploiting the potential of unlabeled endoscopic video data with
+  self-supervised learning}, International journal of computer assisted
+  radiology and surgery \textbf{13}, 6, 925--933 (2018).
+
+\bibitem[Roth \emph{et~al.}(2015)]{roth2015improving}
+Roth, H.~R., L.~Lu, J.~Liu, J.~Yao, A.~Seff, K.~Cherry, L.~Kim and R.~M.
+  Summers, \enquote{Improving computer-aided detection using convolutional
+  neural networks and random view aggregation}, IEEE transactions on medical
+  imaging \textbf{35}, 5, 1170--1181 (2015).
+
+\bibitem[Roth \emph{et~al.}(2014)]{roth2014new}
+Roth, H.~R., L.~Lu, A.~Seff, K.~M. Cherry, J.~Hoffman, S.~Wang, J.~Liu,
+  E.~Turkbey and R.~M. Summers, \enquote{A new 2.5 d representation for lymph
+  node detection using random sets of deep convolutional neural network
+  observations}, in \enquote{International conference on medical image
+  computing and computer-assisted intervention}, pp. 520--527 (Springer, 2014).
+
+\bibitem[Rubin \emph{et~al.}(2015)]{rubin2015characterizing}
+Rubin, G.~D., J.~E. Roos, M.~Tall, B.~Harrawood, S.~Bag, D.~L. Ly, D.~M.
+  Seaman, L.~M. Hurwitz, S.~Napel and K.~Roy~Choudhury, \enquote{Characterizing
+  search, recognition, and decision in the detection of lung nodules on ct
+  scans: elucidation with eye tracking}, Radiology \textbf{274}, 1, 276--286
+  (2015).
+
+\bibitem[Sabour \emph{et~al.}(2017)]{sabour2017dynamic}
+Sabour, S., N.~Frosst and G.~E. Hinton, \enquote{Dynamic routing between
+  capsules}, arXiv preprint arXiv:1710.09829  (2017).
+
+\bibitem[Sadigh \emph{et~al.}(2011)]{sadigh2011challenges}
+Sadigh, G., A.~M. Kelly and P.~Cronin, \enquote{Challenges, controversies, and
+  hot topics in pulmonary embolism imaging}, American Journal of Roentgenology
+  \textbf{196}, 3, 497--515 (2011).
+
+\bibitem[Sayed \emph{et~al.}(2018)]{sayed2018cross}
+Sayed, N., B.~Brattoli and B.~Ommer, \enquote{Cross and learn: Cross-modal
+  self-supervision}, in \enquote{German Conference on Pattern Recognition}, pp.
+  228--243 (Springer, 2018).
+
+\bibitem[Scheffer \emph{et~al.}(2001)]{scheffer2001active}
+Scheffer, T., C.~Decomain and S.~Wrobel, \enquote{Active hidden markov models
+  for information extraction}, in \enquote{International Symposium on
+  Intelligent Data Analysis}, pp. 309--318 (Springer, 2001).
+
+\bibitem[Sener and Savarese(2017)]{sener2017active}
+Sener, O. and S.~Savarese, \enquote{Active learning for convolutional neural
+  networks: A core-set approach}, arXiv preprint arXiv:1708.00489  (2017).
+
+\bibitem[Setio \emph{et~al.}(2016)]{setio2016pulmonary}
+Setio, A. A.~A., F.~Ciompi, G.~Litjens, P.~Gerke, C.~Jacobs, S.~J. Van~Riel,
+  M.~M.~W. Wille, M.~Naqibullah, C.~I. S{\'a}nchez and B.~van Ginneken,
+  \enquote{Pulmonary nodule detection in ct images: false positive reduction
+  using multi-view convolutional networks}, IEEE transactions on medical
+  imaging \textbf{35}, 5, 1160--1169 (2016).
+
+\bibitem[Setio \emph{et~al.}(2017)]{setio2017validation}
+Setio, A. A.~A., A.~Traverso, T.~De~Bel, M.~S. Berens, C.~van~den Bogaard,
+  P.~Cerello, H.~Chen, Q.~Dou, M.~E. Fantacci, B.~Geurts \emph{et~al.},
+  \enquote{Validation, comparison, and combination of algorithms for automatic
+  detection of pulmonary nodules in computed tomography images: the luna16
+  challenge}, Medical image analysis \textbf{42}, 1--13 (2017).
+
+\bibitem[Settles(2009)]{settles2009active}
+Settles, B., \enquote{Active learning literature survey},   (2009).
+
+\bibitem[Shannon(1948)]{shannon1948mathematical}
+Shannon, C.~E., \enquote{A mathematical theory of communication}, Bell system
+  technical journal \textbf{27}, 3, 379--423 (1948).
+
+\bibitem[Shao \emph{et~al.}(2018)]{shao2018deep}
+Shao, W., L.~Sun and D.~Zhang, \enquote{Deep active learning for nucleus
+  classification in pathology images}, in \enquote{2018 IEEE 15th International
+  Symposium on Biomedical Imaging (ISBI 2018)}, pp. 199--202 (IEEE, 2018).
+
+\bibitem[Shen \emph{et~al.}(2019)]{shen2019medical}
+Shen, D., T.~Liu, T.~M. Peters, L.~H. Staib, C.~Essert, S.~Zhou, P.-T. Yap and
+  A.~Khan, \emph{Medical Image Computing and Computer Assisted
+  Intervention--MICCAI 2019: 22nd International Conference, Shenzhen, China,
+  October 13--17, 2019, Proceedings}, vol. 11767 (Springer Nature, 2019).
+
+\bibitem[Shen \emph{et~al.}(2017)]{shen2017deep}
+Shen, D., G.~Wu and H.-I. Suk, \enquote{Deep learning in medical image
+  analysis}, Annual review of biomedical engineering \textbf{19}, 221--248
+  (2017).
+
+\bibitem[Shenoy(2019)]{shenoy2019feature}
+Shenoy, A., \enquote{Feature optimization of contact map predictions based on
+  inter-residue distances and u-net++ architecture}, no. July  (2019).
+
+\bibitem[Shi \emph{et~al.}(2020)]{shi2020review}
+Shi, F., J.~Wang, J.~Shi, Z.~Wu, Q.~Wang, Z.~Tang, K.~He, Y.~Shi and D.~Shen,
+  \enquote{Review of artificial intelligence techniques in imaging data
+  acquisition, segmentation and diagnosis for covid-19}, IEEE reviews in
+  biomedical engineering  (2020).
+
+\bibitem[Shi \emph{et~al.}(2019)]{shi2019active}
+Shi, X., Q.~Dou, C.~Xue, J.~Qin, H.~Chen and P.-A. Heng, \enquote{An active
+  learning approach for reducing annotation cost in skin lesion analysis}, in
+  \enquote{International Workshop on Machine Learning in Medical Imaging}, pp.
+  628--636 (Springer, 2019).
+
+\bibitem[Shin \emph{et~al.}(2016{\natexlab{a}})]{shin2016deep}
+Shin, H.-C., H.~R. Roth, M.~Gao, L.~Lu, Z.~Xu, I.~Nogues, J.~Yao, D.~Mollura
+  and R.~M. Summers, \enquote{Deep convolutional neural networks for
+  computer-aided detection: {CNN} architectures, dataset characteristics and
+  transfer learning}, IEEE transactions on medical imaging \textbf{35}, 5,
+  1285--1298 (2016{\natexlab{a}}).
+
+\bibitem[Shin \emph{et~al.}(2016{\natexlab{b}})]{shin2016automating}
+Shin, J., N.~Tajbakhsh, R.~T. Hurst, C.~B. Kendall and J.~Liang,
+  \enquote{Automating carotid intima-media thickness video interpretation with
+  convolutional neural networks}, in \enquote{Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition}, pp. 2526--2535
+  (2016{\natexlab{b}}).
+
+\bibitem[Shorten and Khoshgoftaar(2019)]{shorten2019survey}
+Shorten, C. and T.~M. Khoshgoftaar, \enquote{A survey on image data
+  augmentation for deep learning}, Journal of Big Data \textbf{6}, 1, 60
+  (2019).
+
+\bibitem[Shui \emph{et~al.}(2020)]{shui2020deep}
+Shui, C., F.~Zhou, C.~Gagn{\'e} and B.~Wang, \enquote{Deep active learning:
+  Unified and principled method for query and training}, in
+  \enquote{International Conference on Artificial Intelligence and Statistics},
+  pp. 1308--1318 (PMLR, 2020).
+
+\bibitem[Siddiquee \emph{et~al.}(2019)]{siddiquee2019learning}
+Siddiquee, M. M.~R., Z.~Zhou, N.~Tajbakhsh, R.~Feng, M.~B. Gotway, Y.~Bengio
+  and J.~Liang, \enquote{Learning fixed points in generative adversarial
+  networks: From image-to-image translation to disease detection and
+  localization}, in \enquote{Proceedings of the IEEE International Conference
+  on Computer Vision}, pp. 191--200 (2019).
+
+\bibitem[Simonyan and Zisserman(2014)]{simonyan2014very}
+Simonyan, K. and A.~Zisserman, \enquote{Very deep convolutional networks for
+  large-scale image recognition}, arXiv preprint arXiv:1409.1556  (2014).
+
+\bibitem[Sodha(2020)]{sodha2020self}
+Sodha, V.~A., \enquote{Self-supervised representation learning via image
+  out-painting for medical image analysis},  (2020).
+
+\bibitem[Song and Chai(2018)]{song2018collaborative}
+Song, G. and W.~Chai, \enquote{Collaborative learning for deep neural
+  networks}, in \enquote{Neural Information Processing Systems (NeurIPS)},
+  (2018).
+
+\bibitem[Song \emph{et~al.}(2019)]{song2019u}
+Song, T., F.~Meng, A.~Rodr{\'\i}guez-Pat{\'o}n, P.~Li, P.~Zheng and X.~Wang,
+  \enquote{U-next: A novel convolution neural network with an aggregation u-net
+  architecture for gallstone segmentation in ct images}, IEEE Access
+  \textbf{7}, 166823--166832 (2019).
+
+\bibitem[Sourati \emph{et~al.}(2016)]{sourati2016classification}
+Sourati, J., M.~Akcakaya, J.~G. Dy, T.~K. Leen and D.~Erdogmus,
+  \enquote{Classification active learning based on mutual information}, Entropy
+  \textbf{18}, 2, 51 (2016).
+
+\bibitem[Sourati \emph{et~al.}(2018)]{sourati2018active}
+Sourati, J., A.~Gholipour, J.~G. Dy, S.~Kurugol and S.~K. Warfield,
+  \enquote{Active deep learning with fisher information for patch-wise semantic
+  segmentation}, in \enquote{Deep Learning in Medical Image Analysis and
+  Multimodal Learning for Clinical Decision Support}, pp. 83--91 (Springer,
+  2018).
+
+\bibitem[Sourati \emph{et~al.}(2019)]{sourati2019intelligent}
+Sourati, J., A.~Gholipour, J.~G. Dy, X.~Tomas-Fernandez, S.~Kurugol and S.~K.
+  Warfield, \enquote{Intelligent labeling based on fisher information for
+  medical image segmentation using deep learning}, IEEE transactions on medical
+  imaging \textbf{38}, 11, 2642--2653 (2019).
+
+\bibitem[Spitzer \emph{et~al.}(2018)]{spitzer2018improving}
+Spitzer, H., K.~Kiwitz, K.~Amunts, S.~Harmeling and T.~Dickscheid,
+  \enquote{Improving cytoarchitectonic segmentation of human brain areas with
+  self-supervised siamese networks}, in \enquote{International Conference on
+  Medical Image Computing and Computer-Assisted Intervention}, pp. 663--671
+  (Springer, 2018).
+
+\bibitem[Standley \emph{et~al.}(2020)]{standley2020tasks}
+Standley, T., A.~Zamir, D.~Chen, L.~Guibas, J.~Malik and S.~Savarese,
+  \enquote{Which tasks should be learned together in multi-task learning?}, in
+  \enquote{International Conference on Machine Learning}, pp. 9120--9132 (PMLR,
+  2020).
+
+\bibitem[Stein \emph{et~al.}(2008)]{stein2008use}
+Stein, J.~H., C.~E. Korcarz, R.~T. Hurst, E.~Lonn, C.~B. Kendall, E.~R. Mohler,
+  S.~S. Najjar, C.~M. Rembold and W.~S. Post, \enquote{Use of carotid
+  ultrasound to identify subclinical vascular disease and evaluate
+  cardiovascular disease risk: a consensus statement from the american society
+  of echocardiography carotid intima-media thickness task force endorsed by the
+  society for vascular medicine}, Journal of the American Society of
+  Echocardiography \textbf{21}, 2, 93--111 (2008).
+
+\bibitem[Sudre \emph{et~al.}(2017)]{sudre2017generalised}
+Sudre, C.~H., W.~Li, T.~Vercauteren, S.~Ourselin and M.~J. Cardoso,
+  \enquote{Generalised dice overlap as a deep learning loss function for highly
+  unbalanced segmentations}, in \enquote{Deep Learning in Medical Image
+  Analysis and Multimodal Learning for Clinical Decision Support}, pp. 240--248
+  (Springer, 2017).
+
+\bibitem[Sun \emph{et~al.}(2017{\natexlab{a}})]{sun2017multiphase}
+Sun, C., S.~Guo, H.~Zhang, J.~Li, M.~Chen, S.~Ma, L.~Jin, X.~Liu, X.~Li and
+  X.~Qian, \enquote{Automatic segmentation of liver tumors from multiphase
+  contrast-enhanced ct images based on fcns}, Artificial intelligence in
+  medicine \textbf{83}, 58--66 (2017{\natexlab{a}}).
+
+\bibitem[Sun \emph{et~al.}(2017{\natexlab{b}})]{sun2017revisiting}
+Sun, C., A.~Shrivastava, S.~Singh and A.~Gupta, \enquote{Revisiting
+  unreasonable effectiveness of data in deep learning era}, in
+  \enquote{Proceedings of the IEEE international conference on computer
+  vision}, pp. 843--852 (2017{\natexlab{b}}).
+
+\bibitem[Sun \emph{et~al.}(2019)]{sun2019high}
+Sun, K., Y.~Zhao, B.~Jiang, T.~Cheng, B.~Xiao, D.~Liu, Y.~Mu, X.~Wang, W.~Liu
+  and J.~Wang, \enquote{High-resolution representations for labeling pixels and
+  regions}, arXiv preprint arXiv:1904.04514  (2019).
+
+\bibitem[Sun \emph{et~al.}(2020)]{sun2020context}
+Sun, L., K.~Yu and K.~Batmanghelich, \enquote{Context matters: Graph-based
+  self-supervised representation learning for medical images}, arXiv preprint
+  arXiv:2012.06457  (2020).
+
+\bibitem[Sun \emph{et~al.}(2017{\natexlab{c}})]{sun2017automatic}
+Sun, W., B.~Zheng and W.~Qian, \enquote{Automatic feature learning using
+  multichannel roi based on deep structured algorithms for computerized lung
+  cancer diagnosis}, Computers in biology and medicine \textbf{89}, 530--539
+  (2017{\natexlab{c}}).
+
+\bibitem[Szegedy \emph{et~al.}(2015)]{szegedy2015going}
+Szegedy, C., W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, A.~Rabinovich \emph{et~al.}, \enquote{Going deeper with
+  convolutions},  (Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition, 2015).
+
+\bibitem[Tajbakhsh \emph{et~al.}(2015)]{tajbakhsh2015computer}
+Tajbakhsh, N., M.~B. Gotway and J.~Liang, \enquote{Computer-aided pulmonary
+  embolism detection using a novel vessel-aligned multi-planar image
+  representation and convolutional neural networks}, in \enquote{International
+  Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pp. 62--69 (Springer, 2015).
+
+\bibitem[Tajbakhsh \emph{et~al.}(2019{\natexlab{a}})]{tajbakhsh2019surrogate}
+Tajbakhsh, N., Y.~Hu, J.~Cao, X.~Yan, Y.~Xiao, Y.~Lu, J.~Liang, D.~Terzopoulos
+  and X.~Ding, \enquote{Surrogate supervision for medical image analysis:
+  Effective deep learning from limited quantities of labeled data}, in
+  \enquote{2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI
+  2019)}, pp. 1251--1255 (IEEE, 2019{\natexlab{a}}).
+
+\bibitem[Tajbakhsh \emph{et~al.}(2020{\natexlab{a}})]{tajbakhsh2020embracing}
+Tajbakhsh, N., L.~Jeyaseelan, Q.~Li, J.~N. Chiang, Z.~Wu and X.~Ding,
+  \enquote{Embracing imperfect datasets: A review of deep learning solutions
+  for medical image segmentation}, Medical Image Analysis p. 101693
+  (2020{\natexlab{a}}).
+
+\bibitem[Tajbakhsh \emph{et~al.}(2020{\natexlab{b}})]{tajbakhsh2020errornet}
+Tajbakhsh, N., B.~Lai, S.~P. Ananth and X.~Ding, \enquote{Errornet: Learning
+  error representations from limited data to improve vascular segmentation}, in
+  \enquote{2020 IEEE 17th International Symposium on Biomedical Imaging
+  (ISBI)}, pp. 1364--1368 (IEEE, 2020{\natexlab{b}}).
+
+\bibitem[Tajbakhsh \emph{et~al.}(2019{\natexlab{b}})]{tajbakhsh2019computer}
+Tajbakhsh, N., J.~Y. Shin, M.~B. Gotway and J.~Liang, \enquote{Computer-aided
+  detection and visualization of pulmonary embolism using a novel, compact, and
+  discriminative image representation}, Medical image analysis \textbf{58},
+  101541 (2019{\natexlab{b}}).
+
+\bibitem[Tajbakhsh \emph{et~al.}(2016)]{tajbakhsh2016convolutional}
+Tajbakhsh, N., J.~Y. Shin, S.~R. Gurudu, R.~T. Hurst, C.~B. Kendall, M.~B.
+  Gotway and J.~Liang, \enquote{Convolutional neural networks for medical image
+  analysis: Full training or fine tuning?}, IEEE transactions on medical
+  imaging \textbf{35}, 5, 1299--1312 (2016).
+
+\bibitem[Taleb \emph{et~al.}(2020)]{taleb20203d}
+Taleb, A., W.~Loetzsch, N.~Danz, J.~Severin, T.~Gaertner, B.~Bergner and
+  C.~Lippert, \enquote{3d self-supervised methods for medical imaging}, arXiv
+  preprint arXiv:2006.03829  (2020).
+
+\bibitem[Tang \emph{et~al.}(2019)]{tang2019nodulenet}
+Tang, H., C.~Zhang and X.~Xie, \enquote{Nodulenet: Decoupled false positive
+  reduction for pulmonary nodule detection and segmentation}, in
+  \enquote{International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pp. 266--274 (Springer, 2019).
+
+\bibitem[Tang \emph{et~al.}(2018)]{tang2018attention}
+Tang, Y., X.~Wang, A.~P. Harrison, L.~Lu, J.~Xiao and R.~M. Summers,
+  \enquote{Attention-guided curriculum learning for weakly supervised
+  classification and localization of thoracic diseases on chest radiographs},
+  in \enquote{International Workshop on Machine Learning in Medical Imaging},
+  pp. 249--258 (Springer, 2018).
+
+\bibitem[Touvron \emph{et~al.}(2020)]{touvron2020fixing}
+Touvron, H., A.~Vedaldi, M.~Douze and H.~J{\'e}gou, \enquote{Fixing the
+  train-test resolution discrepancy: Fixefficientnet}, arXiv preprint
+  arXiv:2003.08237  (2020).
+
+\bibitem[Tsymbalov \emph{et~al.}(2018)]{tsymbalov2018dropout}
+Tsymbalov, E., M.~Panov and A.~Shapeev, \enquote{Dropout-based active learning
+  for regression}, in \enquote{International conference on analysis of images,
+  social networks and texts}, pp. 247--258 (Springer, 2018).
+
+\bibitem[Vaswani \emph{et~al.}(2017)]{vaswani2017attention}
+Vaswani, A., N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  L.~Kaiser and I.~Polosukhin, \enquote{Attention is all you need}, arXiv
+  preprint arXiv:1706.03762  (2017).
+
+\bibitem[Venturini \emph{et~al.}(2020)]{venturini2020uncertainty}
+Venturini, L., A.~T. Papageorghiou, J.~A. Noble and A.~I. Namburete,
+  \enquote{Uncertainty estimates as data selection criteria to boost
+  omni-supervised learning}, in \enquote{International Conference on Medical
+  Image Computing and Computer-Assisted Intervention}, pp. 689--698 (Springer,
+  2020).
+
+\bibitem[Vincent \emph{et~al.}(2010)]{vincent2010stacked}
+Vincent, P., H.~Larochelle, I.~Lajoie, Y.~Bengio and P.-A. Manzagol,
+  \enquote{Stacked denoising autoencoders: Learning useful representations in a
+  deep network with a local denoising criterion}, Journal of machine learning
+  research \textbf{11}, Dec, 3371--3408 (2010).
+
+\bibitem[Voulodimos \emph{et~al.}(2018)]{voulodimos2018deep}
+Voulodimos, A., N.~Doulamis, A.~Doulamis and E.~Protopapadakis, \enquote{Deep
+  learning for computer vision: A brief review}, Computational intelligence and
+  neuroscience \textbf{2018} (2018).
+
+\bibitem[Wang \emph{et~al.}(2018{\natexlab{a}})]{wang2018uncertainty}
+Wang, H., X.~Chang, L.~Shi, Y.~Yang and Y.-D. Shen, \enquote{Uncertainty
+  sampling for action recognition via maximizing expected average precision.},
+  in \enquote{IJCAI}, pp. 964--970 (2018{\natexlab{a}}).
+
+\bibitem[Wang \emph{et~al.}(2017{\natexlab{a}})]{wang2017comparison}
+Wang, H., Z.~Zhou, Y.~Li, Z.~Chen, P.~Lu, W.~Wang, W.~Liu and L.~Yu,
+  \enquote{Comparison of machine learning methods for classifying mediastinal
+  lymph node metastasis of non-small cell lung cancer from 18 f-fdg pet/ct
+  images}, EJNMMI research \textbf{7}, 1, 11 (2017{\natexlab{a}}).
+
+\bibitem[Wang \emph{et~al.}(2018{\natexlab{b}})]{wang2018deep}
+Wang, W., Y.~Lu, B.~Wu, T.~Chen, D.~Z. Chen and J.~Wu, \enquote{Deep active
+  self-paced learning for accurate pulmonary nodule segmentation}, in
+  \enquote{International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pp. 723--731 (Springer, 2018{\natexlab{b}}).
+
+\bibitem[Wang \emph{et~al.}(2017{\natexlab{b}})]{wang2017chestx}
+Wang, X., Y.~Peng, L.~Lu, Z.~Lu, M.~Bagheri and R.~M. Summers,
+  \enquote{Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on
+  weakly-supervised classification and localization of common thorax diseases},
+  in \enquote{Proceedings of the IEEE conference on computer vision and pattern
+  recognition}, pp. 2097--2106 (2017{\natexlab{b}}).
+
+\bibitem[Wang \emph{et~al.}(2004)]{wang2004image}
+Wang, Z., A.~C. Bovik, H.~R. Sheikh and E.~P. Simoncelli, \enquote{Image
+  quality assessment: from error visibility to structural similarity}, IEEE
+  transactions on image processing \textbf{13}, 4, 600--612 (2004).
+
+\bibitem[Weikert \emph{et~al.}(2020)]{weikert2020automated}
+Weikert, T., D.~J. Winkel, J.~Bremerich, B.~Stieltjes, V.~Parmar, A.~W. Sauter
+  and G.~Sommer, \enquote{Automated detection of pulmonary embolism in ct
+  pulmonary angiograms using an ai-powered algorithm}, European Radiology
+  \textbf{30}, 12, 6545--6553 (2020).
+
+\bibitem[Weiss \emph{et~al.}(2016)]{weiss2016survey}
+Weiss, K., T.~M. Khoshgoftaar and D.~Wang, \enquote{A survey of transfer
+  learning}, Journal of Big Data \textbf{3}, 1, 9 (2016).
+
+\bibitem[Wiggers(2020)]{wiggers2020yann}
+Wiggers, K., \enquote{Yann lecun and yoshua bengio: Self-supervised learning is
+  the key to humanlevel intelligence},  (2020).
+
+\bibitem[Wittenberg \emph{et~al.}(2011)]{wittenberg2011impact}
+Wittenberg, R., J.~F. Peters, J.~J. Sonnemans, S.~Bipat, M.~Prokop and C.~M.
+  Schaefer-Prokop, \enquote{Impact of image quality on the performance of
+  computer-aided detection of pulmonary embolism}, American Journal of
+  Roentgenology \textbf{196}, 1, 95--101 (2011).
+
+\bibitem[Wittenberg \emph{et~al.}(2013)]{wittenberg2013computed}
+Wittenberg, R., J.~F. Peters, I.~A. van~den Berk, N.~J. Freling, R.~Lely,
+  B.~de~Hoop, K.~Horsthuis, C.~J. Ravesloot, M.~Weber, W.~M. Prokop
+  \emph{et~al.}, \enquote{Computed tomography pulmonary angiography in acute
+  pulmonary embolism: the effect of a computer-assisted detection prototype
+  used as a concurrent reader}, Journal of thoracic imaging \textbf{28}, 5,
+  315--321 (2013).
+
+\bibitem[Wong \emph{et~al.}(2016)]{wong2016understanding}
+Wong, S.~C., A.~Gatt, V.~Stamatescu and M.~D. McDonnell, \enquote{Understanding
+  data augmentation for classification: when to warp?}, in \enquote{2016
+  international conference on digital image computing: techniques and
+  applications (DICTA)}, pp. 1--6 (IEEE, 2016).
+
+\bibitem[Wu \emph{et~al.}(2019)]{wu2019automatical}
+Wu, S., Z.~Wang, C.~Liu, C.~Zhu, S.~Wu and K.~Xiao, \enquote{Automatical
+  segmentation of pelvic organs after hysterectomy by using dilated convolution
+  u-net++}, in \enquote{2019 IEEE 19th International Conference on Software
+  Quality, Reliability and Security Companion (QRS-C)}, pp. 362--367 (IEEE,
+  2019).
+
+\bibitem[Wu \emph{et~al.}(2020)]{wu2020generalization}
+Wu, S., H.~R. Zhang, G.~Valiant and C.~R{\'e}, \enquote{On the generalization
+  effects of linear transformations in data augmentation}, arXiv preprint
+  arXiv:2005.00695  (2020).
+
+\bibitem[Xie and Tu(2015)]{xie2015holistically}
+Xie, S. and Z.~Tu, \enquote{Holistically-nested edge detection}, in
+  \enquote{Proceedings of the IEEE International Conference on Computer
+  Vision}, pp. 1395--1403 (2015).
+
+\bibitem[Xu \emph{et~al.}(2020)]{xu2020data}
+Xu, J., J.~Hou, Y.~Zhang, R.~Feng, C.~Ruan, T.~Zhang and W.~Fan,
+  \enquote{Data-efficient histopathology image analysis with deformation
+  representation learning}, in \enquote{2020 IEEE International Conference on
+  Bioinformatics and Biomedicine (BIBM)}, pp. 857--864 (IEEE, 2020).
+
+\bibitem[Yamamoto \emph{et~al.}(2019)]{yamamoto2019automated}
+Yamamoto, Y., T.~Tsuzuki, J.~Akatsuka, M.~Ueki, H.~Morikawa, Y.~Numata,
+  T.~Takahara, T.~Tsuyuki, K.~Tsutsumi, R.~Nakazawa \emph{et~al.},
+  \enquote{Automated acquisition of explainable knowledge from unannotated
+  histopathology images}, Nature communications \textbf{10}, 1, 1--9 (2019).
+
+\bibitem[Yang and Gao(2019)]{yang2019eda}
+Yang, C. and F.~Gao, \enquote{Eda-net: Dense aggregation of deep and shallow
+  information achieves quantitative photoacoustic blood oxygenation imaging
+  deep in human breast}, in \enquote{International Conference on Medical Image
+  Computing and Computer-Assisted Intervention}, pp. 246--254 (Springer, 2019).
+
+\bibitem[Yang \emph{et~al.}(2017)]{yang2017suggestive}
+Yang, L., Y.~Zhang, J.~Chen, S.~Zhang and D.~Z. Chen, \enquote{Suggestive
+  annotation: A deep active learning framework for biomedical image
+  segmentation}, in \enquote{International conference on medical image
+  computing and computer-assisted intervention}, pp. 399--407 (Springer, 2017).
+
+\bibitem[Yosinski \emph{et~al.}(2014)]{yosinski2014transferable}
+Yosinski, J., J.~Clune, Y.~Bengio and H.~Lipson, \enquote{How transferable are
+  features in deep neural networks?}, in \enquote{Advances in neural
+  information processing systems}, pp. 3320--3328 (2014).
+
+\bibitem[Yu \emph{et~al.}(2018)]{yu2018deep}
+Yu, F., D.~Wang, E.~Shelhamer and T.~Darrell, \enquote{Deep layer aggregation},
+  in \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 2403--2412 (IEEE, 2018).
+
+\bibitem[Yu \emph{et~al.}(2019)]{yu2019uncertainty}
+Yu, L., S.~Wang, X.~Li, C.-W. Fu and P.-A. Heng, \enquote{Uncertainty-aware
+  self-ensembling model for semi-supervised 3d left atrium segmentation}, in
+  \enquote{International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pp. 605--613 (Springer, 2019).
+
+\bibitem[Yuan \emph{et~al.}(2020)]{yuan2020cold}
+Yuan, M., H.-T. Lin and J.~Boyd-Graber, \enquote{Cold-start active learning
+  through self-supervised language modeling}, arXiv preprint arXiv:2010.09535
+  (2020).
+
+\bibitem[Yuan and Zhang(2013)]{yuan2013truncated}
+Yuan, X.-T. and T.~Zhang, \enquote{Truncated power method for sparse eigenvalue
+  problems}, Journal of Machine Learning Research \textbf{14}, Apr, 899--925
+  (2013).
+
+\bibitem[Yuille and Liu(2021)]{yuille2021deep}
+Yuille, A.~L. and C.~Liu, \enquote{Deep nets: What have they ever done for
+  vision?}, International Journal of Computer Vision \textbf{129}, 3, 781--802
+  (2021).
+
+\bibitem[Zhang \emph{et~al.}(2018)]{zhang2018mdu}
+Zhang, J., Y.~Jin, J.~Xu, X.~Xu and Y.~Zhang, \enquote{Mdu-net: Multi-scale
+  densely connected u-net for biomedical image segmentation}, arXiv preprint
+  arXiv:1812.00352  (2018).
+
+\bibitem[Zhang \emph{et~al.}(2019{\natexlab{a}})]{zhang2019medical}
+Zhang, J., Y.~Xie, Q.~Wu and Y.~Xia, \enquote{Medical image classification
+  using synergic deep learning}, Medical image analysis \textbf{54}, 10--19
+  (2019{\natexlab{a}}).
+
+\bibitem[Zhang \emph{et~al.}(2019{\natexlab{b}})]{zhang2019attention}
+Zhang, J., Y.~Xie, Y.~Xia and C.~Shen, \enquote{Attention residual learning for
+  skin lesion classification}, IEEE transactions on medical imaging
+  (2019{\natexlab{b}}).
+
+\bibitem[Zhang \emph{et~al.}(2019{\natexlab{c}})]{zhang2019aet}
+Zhang, L., G.-J. Qi, L.~Wang and J.~Luo, \enquote{Aet vs. aed: Unsupervised
+  representation learning by auto-encoding transformations rather than data},
+  in \enquote{Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. 2547--2555 (2019{\natexlab{c}}).
+
+\bibitem[Zhang \emph{et~al.}(2016)]{zhang2016colorful}
+Zhang, R., P.~Isola and A.~A. Efros, \enquote{Colorful image colorization}, in
+  \enquote{Proceedings of the European Conference on Computer Vision}, pp.
+  649--666 (Springer, 2016).
+
+\bibitem[Zhang \emph{et~al.}(2017)]{zhang2017split}
+Zhang, R., P.~Isola and A.~A. Efros, \enquote{Split-brain autoencoders:
+  Unsupervised learning by cross-channel prediction}, in \enquote{Proceedings
+  of the IEEE Conference on Computer Vision and Pattern Recognition}, pp.
+  1058--1067 (2017).
+
+\bibitem[Zhang(2004)]{zhang2004solving}
+Zhang, T., \enquote{Solving large scale linear prediction problems using
+  stochastic gradient descent algorithms}, in \enquote{Proceedings of the
+  twenty-first international conference on Machine learning}, p. 116 (ACM,
+  2004).
+
+\bibitem[Zhang \emph{et~al.}(2019{\natexlab{d}})]{zhang2019using}
+Zhang, X., F.~Yan, Y.~Zhuang, H.~Hu and C.~Bu, \enquote{Using an ensemble of
+  incrementally fine-tuned cnns for cross-domain object category recognition},
+  IEEE Access \textbf{7}, 33822--33833 (2019{\natexlab{d}}).
+
+\bibitem[Zhang \emph{et~al.}(2020)]{zhang2020universal}
+Zhang, X., Y.~Zhang, X.~Zhang and Y.~Wang, \enquote{Universal model for 3d
+  medical image analysis}, arXiv preprint arXiv:2010.06107  (2020).
+
+\bibitem[Zhang \emph{et~al.}(2019{\natexlab{e}})]{zhang2019customizable}
+Zhang, Y., Z.~Qiu, J.~Liu, T.~Yao, D.~Liu and T.~Mei, \enquote{Customizable
+  architecture search for semantic segmentation}, in \enquote{Proceedings of
+  the IEEE Conference on Computer Vision and Pattern Recognition}, pp.
+  11641--11650 (2019{\natexlab{e}}).
+
+\bibitem[Zhang and Yang(2017)]{zhang2017survey}
+Zhang, Y. and Q.~Yang, \enquote{A survey on multi-task learning}, arXiv
+  preprint arXiv:1707.08114  (2017).
+
+\bibitem[Zhao \emph{et~al.}(2018)]{zhao2018icnet}
+Zhao, H., X.~Qi, X.~Shen, J.~Shi and J.~Jia, \enquote{Icnet for real-time
+  semantic segmentation on high-resolution images}, in \enquote{Proceedings of
+  the European Conference on Computer Vision}, pp. 405--420 (2018).
+
+\bibitem[Zhou \emph{et~al.}(2016)]{zhou2016learning}
+Zhou, B., A.~Khosla, A.~Lapedriza, A.~Oliva and A.~Torralba, \enquote{Learning
+  deep features for discriminative localization}, in \enquote{Proceedings of
+  the IEEE Conference on Computer Vision and Pattern Recognition}, pp.
+  2921--2929 (2016).
+
+\bibitem[Zhou \emph{et~al.}(2017{\natexlab{a}})]{zhou2017places}
+Zhou, B., A.~Lapedriza, A.~Khosla, A.~Oliva and A.~Torralba, \enquote{Places: A
+  10 million image database for scene recognition}, IEEE transactions on
+  pattern analysis and machine intelligence  (2017{\natexlab{a}}).
+
+\bibitem[Zhou \emph{et~al.}(2018{\natexlab{a}})]{zhou2018learning}
+Zhou, C., S.~Chen, C.~Ding and D.~Tao, \enquote{Learning contextual and
+  attentive information for brain tumor segmentation}, in
+  \enquote{International MICCAI Brainlesion Workshop}, pp. 497--507 (Springer,
+  2018{\natexlab{a}}).
+
+\bibitem[Zhou \emph{et~al.}(2021{\natexlab{a}})]{zhou2021review}
+Zhou, S.~K., H.~Greenspan, C.~Davatzikos, J.~S. Duncan, B.~van Ginneken,
+  A.~Madabhushi, J.~L. Prince, D.~Rueckert and R.~M. Summers, \enquote{A review
+  of deep learning in medical imaging: Imaging traits, technology trends, case
+  studies with progress highlights, and future promises}, Proceedings of the
+  IEEE  (2021{\natexlab{a}}).
+
+\bibitem[Zhou \emph{et~al.}(2017{\natexlab{b}})]{zhou2017deep}
+Zhou, S.~K., H.~Greenspan and D.~Shen, \emph{Deep learning for medical image
+  analysis} (Academic Press, 2017{\natexlab{b}}).
+
+\bibitem[Zhou \emph{et~al.}(2019{\natexlab{a}})]{zhou2019handbook}
+Zhou, S.~K., D.~Rueckert and G.~Fichtinger, \emph{Handbook of medical image
+  computing and computer assisted intervention} (Academic Press,
+  2019{\natexlab{a}}).
+
+\bibitem[Zhou \emph{et~al.}(2019{\natexlab{b}})]{zhou2019integrating}
+Zhou, Z., J.~Shin, R.~Feng, R.~T. Hurst, C.~B. Kendall and J.~Liang,
+  \enquote{Integrating active learning and transfer learning for carotid
+  intima-media thickness video interpretation}, Journal of digital imaging
+  \textbf{32}, 2, 290--299 (2019{\natexlab{b}}).
+
+\bibitem[Zhou \emph{et~al.}(2017{\natexlab{c}})]{zhou2017fine}
+Zhou, Z., J.~Shin, L.~Zhang, S.~Gurudu, M.~Gotway and J.~Liang,
+  \enquote{Fine-tuning convolutional neural networks for biomedical image
+  analysis: actively and incrementally}, in \enquote{Proceedings of the IEEE
+  Conference on Computer Vision and Pattern Recognition}, pp. 7340--7349
+  (2017{\natexlab{c}}).
+
+\bibitem[Zhou \emph{et~al.}(2021{\natexlab{b}})]{zhou2021active}
+Zhou, Z., J.~Y. Shin, S.~R. Gurudu, M.~B. Gotway and J.~Liang, \enquote{Active,
+  continual fine tuning of convolutional neural networks for reducing
+  annotation efforts}, Medical Image Analysis p. 101997 (2021{\natexlab{b}}).
+
+\bibitem[Zhou \emph{et~al.}(2018{\natexlab{b}})]{zhou2018unet++}
+Zhou, Z., M.~M.~R. Siddiquee, N.~Tajbakhsh and J.~Liang, \enquote{Unet++: A
+  nested u-net architecture for medical image segmentation}, in \enquote{Deep
+  Learning in Medical Image Analysis and Multimodal Learning for Clinical
+  Decision Support}, pp. 3--11 (Springer, 2018{\natexlab{b}}).
+
+\bibitem[Zhou \emph{et~al.}(2019{\natexlab{c}})]{zhou2019unet++}
+Zhou, Z., M.~M.~R. Siddiquee, N.~Tajbakhsh and J.~Liang, \enquote{Unet++:
+  Redesigning skip connections to exploit multiscale features in image
+  segmentation}, IEEE transactions on medical imaging \textbf{39}, 6,
+  1856--1867 (2019{\natexlab{c}}).
+
+\bibitem[Zhou \emph{et~al.}(2021{\natexlab{c}})]{zhou2021models}
+Zhou, Z., V.~Sodha, J.~Pang, M.~B. Gotway and J.~Liang, \enquote{Models
+  genesis}, Medical Image Analysis \textbf{67}, 101840,
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1361841520302048}
+  (2021{\natexlab{c}}).
+
+\bibitem[Zhou \emph{et~al.}(2019{\natexlab{d}})]{zhou2019models}
+Zhou, Z., V.~Sodha, M.~M. Rahman~Siddiquee, R.~Feng, N.~Tajbakhsh, M.~B. Gotway
+  and J.~Liang, \enquote{Models genesis: Generic autodidactic models for 3d
+  medical image analysis}, in \enquote{Medical Image Computing and Computer
+  Assisted Intervention -- MICCAI 2019}, pp. 384--393 (Springer International
+  Publishing, Cham, 2019{\natexlab{d}}),
+  \urlprefix\url{https://link.springer.com/chapter/10.1007/978-3-030-32251-9_42}.
+
+\bibitem[Zhu \emph{et~al.}(2020{\natexlab{a}})]{zhu2020rubik}
+Zhu, J., Y.~Li, Y.~Hu, K.~Ma, S.~K. Zhou and Y.~Zheng, \enquote{Rubik’s
+  cube+: A self-supervised feature learning framework for 3d medical image
+  analysis}, Medical Image Analysis \textbf{64}, 101746 (2020{\natexlab{a}}).
+
+\bibitem[Zhu \emph{et~al.}(2020{\natexlab{b}})]{zhu2020aggregative}
+Zhu, J., Y.~Li and S.~K. Zhou, \enquote{Aggregative self-supervised feature
+  learning}, arXiv preprint arXiv:2012.07477  (2020{\natexlab{b}}).
+
+\bibitem[Zhu \emph{et~al.}(2017)]{zhu2017deeply}
+Zhu, Q., B.~Du, B.~Turkbey, P.~L. Choyke and P.~Yan, \enquote{Deeply-supervised
+  cnn for prostate segmentation}, in \enquote{International Joint Conference on
+  Neural Networks (IJCNN)}, pp. 178--184 (IEEE, 2017).
+
+\bibitem[Zhuang \emph{et~al.}(2019)]{zhuang2019self}
+Zhuang, X., Y.~Li, Y.~Hu, K.~Ma, Y.~Yang and Y.~Zheng, \enquote{Self-supervised
+  feature learning for 3d medical images by playing a rubik’s cube}, in
+  \enquote{International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pp. 420--428 (Springer, 2019).
+
+\bibitem[Zoph \emph{et~al.}(2018)]{zoph2018learning}
+Zoph, B., V.~Vasudevan, J.~Shlens and Q.~V. Le, \enquote{Learning transferable
+  architectures for scalable image recognition}, in \enquote{Proceedings of the
+  IEEE Conference on Computer Vision and Pattern Recognition}, pp. 8697--8710
+  (2018).
+
+\bibitem[Zyuzin and Chumarnaya(2019)]{zyuzin2019comparison}
+Zyuzin, V. and T.~Chumarnaya, \enquote{Comparison of unet architectures for
+  segmentation of the left ventricle endocardial border on two-dimensional
+  ultrasound images}, in \enquote{2019 Ural Symposium on Biomedical
+  Engineering, Radioelectronics and Information Technology (USBEREIT)}, pp.
+  110--113 (IEEE, 2019).
+
+\end{thebibliography}

@@ -1,0 +1,140 @@
+\documentclass[12pt,letterpaper]{report}
+\usepackage{natbib}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{afterpage}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb,amsbsy}
+\usepackage{dcolumn,array}
+\usepackage{tocloft}
+\usepackage{asudis}
+% \usepackage[colorlinks=true]{hyperref}
+\usepackage[pageanchor=true,plainpages=false,pdfpagelabels,bookmarks,bookmarksnumbered]{hyperref}
+
+
+\usepackage{enumitem}
+\usepackage{rotating}
+\usepackage[ruled,lined,linesnumbered]{algorithm2e}
+\usepackage{algorithmic}
+\usepackage{threeparttable/threeparttable}
+\usepackage{multirow}
+\usepackage{adjustbox}
+\usepackage{colortbl}
+\usepackage{pifont}
+\usepackage{tcolorbox}
+\usepackage{pdflscape}
+\usepackage{floatpag}
+% \usepackage[table]{xcolor}
+% \usepackage[symbol]{footmisc}
+
+
+% New command by Z. Zhou
+\newcommand{\etal}{\mbox{et al.}}
+\newcommand{\ie}{\mbox{i.e.,\ }}
+\newcommand{\eg}{\mbox{e.g.,\ }}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+
+% \renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+\newcommand{\tpm}[1]{\resizebox{4mm}{!}{\Large\raisebox{1mm}{$\genfrac{}{}{0pt}{}{}{\pm#1}$}}}
+\newcommand{\bd}[1]{\textbf{#1}}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+\definecolor{maroon}{cmyk}{0,0.87,0.68,0.32}
+\definecolor{iblue}{rgb}{0.06, 0.75, 1.0}
+\newenvironment{jlyetrev}{\color{red}}{}
+\newenvironment{reviews}{\color{blue}}{}
+\newenvironment{jlred}{\color{red}}{}
+\newenvironment{jlblue}{\color{blue}}{}
+\newenvironment{jlorange}{\color{orange}}{}
+\newenvironment{jlgreen}{\color{green}}{}
+\newenvironment{jlgrey}{\color{grey}}{}
+\newenvironment{jlmagenta}{\color{magenta}}{}
+
+\def\figurename{Figure}
+\def\tablename{Table}
+\def\sectionname{Section}
+
+\def\fillandplacepagenumber{%
+ \par\pagestyle{empty}%
+ \vbox to 0pt{\vss}\vfill
+ \vbox to 0pt{\baselineskip0pt
+   \hbox to\linewidth{\hss}%
+   \baselineskip\footskip
+   \hbox to\linewidth{%
+     \hfil\thepage\hfil}\vss}}
+
+\DeclareMathOperator*{\argmax}{argmax}
+
+\begin{document}
+%-----------------------front matter
+\pagenumbering{roman}
+% \title{Towards Annotation-Efficient Deep Learning in Medical Image Analysis}
+\title{Towards Annotation-Efficient Deep Learning for Computer-Aided Diagnosis}
+\author{Zongwei Zhou}
+\degreeName{Doctor of Philosophy}
+\paperType{Dissertation}
+\defensemonth{April}
+\defenseyear{2021}
+\gradmonth{May}
+\gradyear{2021}
+\chair{Jianming Liang}
+\memberOne{Edward H. Shortliffe}
+\memberTwo{Robert A. Greenes}
+\memberThree{Baoxin Li}
+
+\maketitle
+\doublespace
+
+\include{abstract}
+% \dedicationpage{}
+\include{ack}
+\tableofcontents
+% This puts the word "Page" right justified above everything else.
+\addtocontents{toc}{~\hfill Page\par}
+% Asking LaTeX for a new page here guarantees that the LOF is on a separate page
+% after the TOC ends.
+\newpage
+% Making the LOT and LOF "parts" rather than chapters gets them indented at
+% level -1 according to the chart: top of page 4 of the document at
+% ftp://tug.ctan.org/pub/tex-archive/macros/latex/contrib/tocloft/tocloft.pdf
+\addcontentsline{toc}{part}{LIST OF TABLES}
+\renewcommand{\cftlabel}{Table}
+\listoftables
+% This gets the headers for the LOT right on the first page.  Subsequent pages
+% are handled by the fancyhdr code in the asudis.sty file.
+\addtocontents{lot}{Table~\hfill Page \par}
+\newpage
+\addcontentsline{toc}{part}{LIST OF FIGURES}
+\addtocontents{toc}{CHAPTER \par}
+\renewcommand{\cftlabel}{Figure}
+% This gets the headers for the LOF right on the first page.  Subsequent pages
+% are handled by the fancyhdr code in the asudis.sty file.
+\addtocontents{lof}{Figure~\hfill Page \par}
+\listoffigures
+%-----------------------body
+\doublespace
+\pagenumbering{arabic}
+\include{chapter1}
+\include{chapter2}
+\include{chapter3}
+\include{chapter4}
+\include{chapter5}
+\include{chapter6}
+\include{chapter7}
+%-----------------------back matter
+{\singlespace
+% Making the references a "part" rather than a chapter gets it indented at
+% level -1 according to the chart: top of page 4 of the document at
+% ftp://tug.ctan.org/pub/tex-archive/macros/latex/contrib/tocloft/tocloft.pdf
+\addcontentsline{toc}{part}{REFERENCES}
+\bibliographystyle{asudis}
+\bibliography{dis}}
+\renewcommand{\chaptername}{APPENDIX}
+\addtocontents{toc}{APPENDIX \par}
+\appendix
+\include{appendix1}
+\include{appendix2}
+\include{vita}
+\end{document}
