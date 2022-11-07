@@ -6,6 +6,7 @@
 Advisor: [Dr. Jianming Liang](https://chs.asu.edu/jianming-liang)<br/>
 Committee: [Dr. Edward H. Shortliffe](http://www.shortliffe.net/), [Dr. Robert A. Greenes](https://chs.asu.edu/robert-greenes), and [Dr. Baoxin Li](https://isearch.asu.edu/profile/747601) <br/>
 <b>[AMIA Doctoral Dissertation Award](https://amia.org/about-amia/amia-awards/research-awards/amia-doctoral-dissertation-award)</b>  <br/>
+[Talk](https://www.youtube.com/watch?v=dQsvJbrIo_k) | [Slides](https://github.com/MrGiovanni/Dissertation/blob/main/PDFs/Zongwei_Zhou_AMIA_Dissertation_Award_7Nov2022.pdf) <br/>
 [Dissertation](https://github.com/MrGiovanni/Dissertation/blob/main/LaTeX/dis.pdf) | [Defense](https://youtu.be/EQcpRikJqM0) | [Slides](https://github.com/MrGiovanni/Dissertation/blob/main/PDFs/Zongwei_Zhou_PhD_Defense_13April2021.pdf) | [LaTeX](https://github.com/MrGiovanni/Dissertation/tree/main/LaTeX) <br/>
 
 <p align="center"><img width="100%" src="Figures/fig_amia_award.jpg" /></p>
