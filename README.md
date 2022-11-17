@@ -20,6 +20,7 @@ AMIA 2022: [Talk](https://www.youtube.com/watch?v=dQsvJbrIo_k) | [Slides](https:
   year={2021},
   school={Arizona State University}
 }
+
 @incollection{zhou2022interpreting,
   title={Interpreting Medical Images},
   author={Zhou, Zongwei and Gotway, Michael B and Liang, Jianming},
