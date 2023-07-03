@@ -8,6 +8,7 @@ Committee: [Dr. Edward H. Shortliffe](http://www.shortliffe.net/), [Dr. Robert A
 <b>[AMIA Doctoral Dissertation Award](https://amia.org/about-amia/amia-awards/research-awards/amia-doctoral-dissertation-award)</b>  <br/>
 AMIA 2022: [Talk](https://www.youtube.com/watch?v=dQsvJbrIo_k) | [Slides](https://github.com/MrGiovanni/Dissertation/blob/main/PDFs/Zongwei_Zhou_AMIA_Dissertation_Award_7Nov2022.pdf) <br/>
 [Dissertation](https://github.com/MrGiovanni/Dissertation/blob/main/LaTeX/dis.pdf) | [Defense](https://youtu.be/EQcpRikJqM0) | [Slides](https://github.com/MrGiovanni/Dissertation/blob/main/PDFs/Zongwei_Zhou_PhD_Defense_13April2021.pdf) | [LaTeX](https://github.com/MrGiovanni/Dissertation/tree/main/LaTeX) <br/>
+[MICS在线学术讲座](https://www.bilibili.com/video/BV1GQ4y127dT/?spm_id_from=333.999.0.0&vd_source=39faca43b6f5c5869ef08a9e94765e3c) <br/>
 
 <p align="center"><img width="100%" src="Figures/fig_amia_award.jpg" /></p>
 
